@@ -1,0 +1,36 @@
+name: Test YTM_HEADERS_RAW
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install ytmusicapi
+
+      - name: Create browser.json from pasted request headers
+        run: python -c "import os, ytmusicapi; ytmusicapi.setup(filepath='browser.json', headers_raw=os.environ['YTM_HEADERS_RAW'])"
+        env:
+          YTM_HEADERS_RAW: ${{ secrets.YTM_HEADERS_RAW }}
+
+      - name: Test authentication
+        run: |
+          python -c "
+          from ytmusicapi import YTMusic
+          yt = YTMusic('browser.json')
+          playlists = yt.get_library_playlists()
+          if not playlists:
+              raise SystemExit('Authentication failed or no playlists found - browser.json may be invalid/expired')
+          print(f'Authenticated OK - found {len(playlists)} playlists:')
+          for pl in playlists:
+              print(f\"  - {pl.get('title')} ({pl.get('playlistId')})\")
+          "
+
+      - name: Remove credentials
+        if: always()
+        run: rm -f browser.json
