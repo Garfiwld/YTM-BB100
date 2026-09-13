@@ -1,0 +1,47 @@
+name: Create Charts
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4 ytmusicapi
+
+      - name: Fetch weekly charts
+        run: |
+          python create-chart.py week hot-100
+          python create-chart.py week global-200
+
+      - name: Fetch year-end charts (no-op unless a new year is available)
+        run: |
+          python create-chart.py year-end hot-100
+          python create-chart.py year-end global-200
+
+      - name: Get timestamp
+        id: timestamp
+        run: echo "value=$(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          title: "Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          branch: github-actions/run-create-chart-${{ github.run_number }}
+          delete-branch: true
+          add-paths: charts/
+          author: "Garfiwld <garfiwld@users.noreply.github.com>"
+          committer: "Garfiwld <garfiwld@users.noreply.github.com>"

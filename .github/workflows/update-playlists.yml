@@ -1,0 +1,55 @@
+name: Update Playlists
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install ytmusicapi
+
+      - name: Create browser.json from pasted request headers
+        run: python -c "import os, ytmusicapi; ytmusicapi.setup(filepath='browser.json', headers_raw=os.environ['YTM_HEADERS_RAW'])"
+        env:
+          YTM_HEADERS_RAW: ${{ secrets.YTM_HEADERS_RAW }}
+
+      - name: Sync changed chart playlists
+        run: |
+          changed=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'charts/**.json')
+          if [ -z "$changed" ]; then
+            echo "No chart JSON files changed in the last commit."
+          fi
+          for file in $changed; do
+            python update-playlist.py "$file"
+          done
+
+      - name: Remove credentials before commit
+        run: rm -f browser.json
+
+      - name: Get timestamp
+        id: timestamp
+        run: echo "value=$(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          title: "Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          branch: github-actions/run-update-playlist-${{ github.run_number }}
+          delete-branch: true
+          add-paths: charts/
+          author: "Garfiwld <garfiwld@users.noreply.github.com>"
+          committer: "Garfiwld <garfiwld@users.noreply.github.com>"
