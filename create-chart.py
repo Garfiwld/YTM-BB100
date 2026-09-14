@@ -118,6 +118,11 @@ def run_week(chart_key):
     iso_year, iso_week, _ = chart_date.isocalendar()
     week_id = f"{iso_year}-W{iso_week:02d}"
 
+    actual_path = os.path.join("charts", "week", str(iso_year), chart_key, f"{week_id}.json")
+    if os.path.exists(actual_path):
+        print(f"{actual_path} already exists and {week_id} is the latest chart week available. Skipping.")
+        return
+
     entries = scrape_entries(response.text)
     if not entries:
         raise RuntimeError(f"No entries scraped from {chart['week_url']} - page structure may have changed")
