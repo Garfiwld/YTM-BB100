@@ -30,10 +30,10 @@ jobs:
         run: |
           changed=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'charts/**.json')
           if [ -z "$changed" ]; then
-            echo "No chart JSON files changed in the last commit."
+            echo "No chart JSON files changed in the last commit." | tee -a run.log
           fi
           for file in $changed; do
-            python update-playlist.py "$file"
+            python update-playlist.py "$file" 2>&1 | tee -a run.log
           done
 
       - name: Remove credentials before commit
@@ -43,10 +43,18 @@ jobs:
         id: timestamp
         run: echo "value=$(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_OUTPUT"
 
+      - name: Get run log
+        id: log
+        run: |
+          { echo "value<<LOG_EOF"; cat run.log; echo "LOG_EOF"; } >> "$GITHUB_OUTPUT"
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          commit-message: |
+            Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}
+
+            ${{ steps.log.outputs.value }}
           title: "Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
           branch: github-actions/run-update-playlist-${{ github.run_number }}
           delete-branch: true

@@ -23,22 +23,30 @@ jobs:
 
       - name: Fetch weekly charts
         run: |
-          python create-chart.py week hot-100
-          python create-chart.py week global-200
+          python create-chart.py week hot-100 2>&1 | tee -a run.log
+          python create-chart.py week global-200 2>&1 | tee -a run.log
 
       - name: Fetch year-end charts (no-op unless a new year is available)
         run: |
-          python create-chart.py year-end hot-100
-          python create-chart.py year-end global-200
+          python create-chart.py year-end hot-100 2>&1 | tee -a run.log
+          python create-chart.py year-end global-200 2>&1 | tee -a run.log
 
       - name: Get timestamp
         id: timestamp
         run: echo "value=$(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_OUTPUT"
 
+      - name: Get run log
+        id: log
+        run: |
+          { echo "value<<LOG_EOF"; cat run.log; echo "LOG_EOF"; } >> "$GITHUB_OUTPUT"
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
+          commit-message: |
+            Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}
+
+            ${{ steps.log.outputs.value }}
           title: "Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
           branch: github-actions/run-create-chart-${{ github.run_number }}
           delete-branch: true
