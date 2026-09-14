@@ -48,7 +48,7 @@ jobs:
 
             ${{ steps.log.outputs.value }}
           title: "Run create-chart.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
-          branch: github-actions/run-create-chart-${{ github.run_number }}
+          branch: github-actions/run-create-chart
           delete-branch: true
           add-paths: charts/
           author: "Garfiwld <garfiwld@users.noreply.github.com>"

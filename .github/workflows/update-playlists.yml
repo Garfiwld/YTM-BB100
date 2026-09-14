@@ -56,7 +56,7 @@ jobs:
 
             ${{ steps.log.outputs.value }}
           title: "Run update-playlist.py on github-actions ${{ github.run_number }} ${{ steps.timestamp.outputs.value }}"
-          branch: github-actions/run-update-playlist-${{ github.run_number }}
+          branch: github-actions/run-update-playlist
           delete-branch: true
           add-paths: charts/
           author: "Garfiwld <garfiwld@users.noreply.github.com>"
