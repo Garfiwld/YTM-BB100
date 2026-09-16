@@ -102,7 +102,7 @@ def run_week(chart_key):
     expected_path = os.path.join("charts", "week", str(current_year), chart_key, f"{expected_week_id}.json")
 
     if os.path.exists(expected_path):
-        print(f"{expected_path} already exists and {expected_week_id} is the latest chart week available. Skipping.")
+        print(f"[pre-check] {expected_path} already exists for the current ISO week ({expected_week_id}). Skipping.")
         return
 
     response = requests.get(chart["week_url"], headers=HEADERS, timeout=30)
@@ -120,7 +120,7 @@ def run_week(chart_key):
 
     actual_path = os.path.join("charts", "week", str(iso_year), chart_key, f"{week_id}.json")
     if os.path.exists(actual_path):
-        print(f"{actual_path} already exists and {week_id} is the latest chart week available. Skipping.")
+        print(f"[billboard-check] {actual_path} already exists - Billboard still shows {week_id} as the latest chart. Skipping.")
         return
 
     entries = scrape_entries(response.text)
