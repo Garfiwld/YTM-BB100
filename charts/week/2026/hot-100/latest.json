@@ -1,241 +1,241 @@
 {
-  "week": "2026-W40",
-  "date": "2026-10-03",
+  "week": "2026-W41",
+  "date": "2026-10-10",
   "chart": "Hot 100 Songs",
-  "description": "Billboard Hot 100 Songs | Auto-updated weekly. | Chart week: 2026-10-03",
+  "description": "Billboard Hot 100 Songs | Auto-updated weekly. | Chart week: 2026-10-10",
   "playlist_songYt": "PLEtmGmZVCzAk",
   "playlist_videoYt": "PLCfGuBHpt_8M",
   "entries": [
     {
       "rank": 1,
+      "song": "Patient Zero",
+      "artist": "Taylor Swift",
+      "songYt": "V-uIp-WuD60",
+      "videoYt": "mw3kSNIxjqo"
+    },
+    {
+      "rank": 2,
       "song": "Choosin' Texas",
       "artist": "Ella Langley",
       "songYt": "xukbqwRuN5w",
       "videoYt": "nUsrYVxrDwI"
     },
     {
-      "rank": 2,
-      "song": "Boston",
-      "artist": "Stella Lefty",
-      "songYt": "C2elY5Tctqg",
-      "videoYt": "Xh0GyxWgKPs"
-    },
-    {
       "rank": 3,
-      "song": "Been By Now",
-      "artist": "Morgan Wallen",
-      "songYt": "HOqxmOXrZnY",
-      "videoYt": "IpEoDLVEqVw"
+      "song": "Cleveland!",
+      "artist": "Taylor Swift",
+      "songYt": "G-C9t4MLrbA",
+      "videoYt": "jfVVXYTZykw"
     },
     {
       "rank": 4,
+      "song": "Babylon",
+      "artist": "Taylor Swift",
+      "songYt": "cCvLt6gqAIA",
+      "videoYt": "tZnNLoPKriU"
+    },
+    {
+      "rank": 5,
+      "song": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "songYt": "9FHuWije2VE",
+      "videoYt": "kXOKQCtttbw"
+    },
+    {
+      "rank": 6,
+      "song": "Boston",
+      "artist": "Stella Lefty",
+      "songYt": "OzAmRkR33eo",
+      "videoYt": "Xh0GyxWgKPs"
+    },
+    {
+      "rank": 7,
+      "song": "Been By Now",
+      "artist": "Morgan Wallen",
+      "songYt": "HOqxmOXrZnY",
+      "videoYt": "krRYW-kwstk"
+    },
+    {
+      "rank": 8,
       "song": "Hate That I Made You Love Me",
       "artist": "Ariana Grande",
       "songYt": "-YOpbOA8-5o",
       "videoYt": "82-jTNka3uc"
     },
     {
-      "rank": 5,
-      "song": "Dracula",
-      "artist": "Tame Impala & JENNIE",
-      "songYt": "6KjVYeQ9SRw",
-      "videoYt": "xnP7qKxwzjg"
-    },
-    {
-      "rank": 6,
-      "song": "BbY WOW",
-      "artist": "Karol G With Judeline & rusowsky",
-      "songYt": "ljAH6jNaApU",
-      "videoYt": "fRIhCiUVaKs"
-    },
-    {
-      "rank": 7,
-      "song": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean",
-      "songYt": "7f_mlKlOLMo",
-      "videoYt": "3sur4BmjQt8"
-    },
-    {
-      "rank": 8,
-      "song": "Man I Need",
-      "artist": "Olivia Dean",
-      "songYt": "fsGjRf-N71I",
-      "videoYt": "oIv_Y2RPQ_A"
-    },
-    {
       "rank": 9,
-      "song": "Last Thing You Need",
-      "artist": "Morgan Wallen",
-      "songYt": "v7yYmRGQaRk",
-      "videoYt": "9leAwpph-xs"
-    },
-    {
-      "rank": 10,
-      "song": "Be Her",
-      "artist": "Ella Langley",
-      "songYt": "2xklUpzCXcQ",
-      "videoYt": "Dg47eNL_Usw"
-    },
-    {
-      "rank": 11,
-      "song": "Nicole Kidman",
-      "artist": "ADELA",
-      "songYt": "h-zuG75Ds-w",
-      "videoYt": "3sB4Iv_tM7U"
-    },
-    {
-      "rank": 12,
-      "song": "I Knew It, I Knew You",
-      "artist": "Taylor Swift",
-      "songYt": "SzJXikN_4wA",
-      "videoYt": "hDU4GB1PTxc"
-    },
-    {
-      "rank": 13,
       "song": "Stupid Song",
       "artist": "Olivia Rodrigo",
       "songYt": "P7VgXIZSN_w",
       "videoYt": "Rt9tW3cMLhI"
     },
     {
-      "rank": 14,
-      "song": "I Just Might",
-      "artist": "Bruno Mars",
-      "songYt": "8_C6lXoGB5Y",
-      "videoYt": "mrV8kK5t0V8"
+      "rank": 10,
+      "song": "Dracula",
+      "artist": "Tame Impala & JENNIE",
+      "songYt": "6KjVYeQ9SRw",
+      "videoYt": "xnP7qKxwzjg"
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "song": "BbY WOW",
+      "artist": "Karol G With Judeline & rusowsky",
+      "songYt": "ljAH6jNaApU",
+      "videoYt": "fRIhCiUVaKs"
+    },
+    {
+      "rank": 12,
+      "song": "Nicole Kidman",
+      "artist": "ADELA",
+      "songYt": "h-zuG75Ds-w",
+      "videoYt": "3sB4Iv_tM7U"
+    },
+    {
+      "rank": 13,
+      "song": "Last Thing You Need",
+      "artist": "Morgan Wallen",
+      "songYt": "v7yYmRGQaRk",
+      "videoYt": "9leAwpph-xs"
+    },
+    {
+      "rank": 14,
       "song": "Risk It All",
       "artist": "Bruno Mars",
       "songYt": "BF2_ipR1OI0",
       "videoYt": "lY5V4hSLWY8"
     },
     {
+      "rank": 15,
+      "song": "I Just Might",
+      "artist": "Bruno Mars",
+      "songYt": "8_C6lXoGB5Y",
+      "videoYt": "mrV8kK5t0V8"
+    },
+    {
       "rank": 16,
-      "song": "Midnight Sun",
-      "artist": "Zara Larsson",
-      "songYt": "sGgMHiRiklo",
-      "videoYt": "uvY8fdgezLQ"
+      "song": "Be Her",
+      "artist": "Ella Langley",
+      "songYt": "2xklUpzCXcQ",
+      "videoYt": "Dg47eNL_Usw"
     },
     {
       "rank": 17,
-      "song": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen",
-      "songYt": "OTBY7wo4LuE",
-      "videoYt": "A3G_7XgK2B4"
-    },
-    {
-      "rank": 18,
       "song": "Babydoll",
       "artist": "Dominic Fike",
       "songYt": "UnuEzP1rDLY",
       "videoYt": "KqMOKCRgvD8"
     },
     {
+      "rank": 18,
+      "song": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "songYt": "sGgMHiRiklo",
+      "videoYt": "uvY8fdgezLQ"
+    },
+    {
       "rank": 19,
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "songYt": "x30_IHP1x3s",
-      "videoYt": "SD4yRDY9mek"
+      "song": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen",
+      "songYt": "OTBY7wo4LuE",
+      "videoYt": "A3G_7XgK2B4"
     },
     {
       "rank": 20,
-      "song": "Earrings",
-      "artist": "Malcolm Todd",
-      "songYt": "BI9HQCzpDgQ",
-      "videoYt": "a4tdS3IB294"
-    },
-    {
-      "rank": 21,
       "song": "Drop Dead",
       "artist": "Olivia Rodrigo",
       "songYt": "wLmLB4Zzyiw",
       "videoYt": "78wrful9cVU"
     },
     {
+      "rank": 21,
+      "song": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "songYt": "SzJXikN_4wA",
+      "videoYt": "hDU4GB1PTxc"
+    },
+    {
       "rank": 22,
-      "song": "Be By You",
-      "artist": "Luke Combs",
-      "songYt": "AMk786WeXDE",
-      "videoYt": "x10Eo-yoLTA"
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "songYt": "x30_IHP1x3s",
+      "videoYt": "SD4yRDY9mek"
     },
     {
       "rank": 23,
-      "song": "Dead Fresh",
-      "artist": "Lil Baby",
-      "songYt": "RKZ2BJNgass",
-      "videoYt": "PXxbEfhtDiM"
+      "song": "Earrings",
+      "artist": "Malcolm Todd",
+      "songYt": "BI9HQCzpDgQ",
+      "videoYt": "a4tdS3IB294"
     },
     {
       "rank": 24,
-      "song": "Loving Life Again",
-      "artist": "Ella Langley",
-      "songYt": "jTXfSQeFWAk",
-      "videoYt": "QemG9NDH2zI"
-    },
-    {
-      "rank": 25,
       "song": "Jaded",
       "artist": "Koe Wetzel & Ella Langley",
       "songYt": "qnEmwwjzAno",
       "videoYt": "X9MDdMhcZVU"
     },
     {
+      "rank": 25,
+      "song": "Loving Life Again",
+      "artist": "Ella Langley",
+      "songYt": "jTXfSQeFWAk",
+      "videoYt": "QemG9NDH2zI"
+    },
+    {
       "rank": 26,
-      "song": "Loser",
-      "artist": "Tame Impala",
-      "songYt": "MX7FSAnRPug",
-      "videoYt": "s3a4OQR-10M"
-    },
-    {
-      "rank": 27,
-      "song": "Ain't In LA",
-      "artist": "ADELA",
-      "songYt": "nyNm-dVBMoo",
-      "videoYt": "0ijm2Xui5N8"
-    },
-    {
-      "rank": 28,
       "song": "The Cure",
       "artist": "Olivia Rodrigo",
       "songYt": "cmzCwz4NkOA",
       "videoYt": "B402rKl4bUg"
     },
     {
+      "rank": 27,
+      "song": "Dead Fresh",
+      "artist": "Lil Baby",
+      "songYt": "RKZ2BJNgass",
+      "videoYt": "PXxbEfhtDiM"
+    },
+    {
+      "rank": 28,
+      "song": "Ain't In LA",
+      "artist": "ADELA",
+      "songYt": "nyNm-dVBMoo",
+      "videoYt": "0ijm2Xui5N8"
+    },
+    {
       "rank": 29,
+      "song": "Loser",
+      "artist": "Tame Impala",
+      "songYt": "MX7FSAnRPug",
+      "videoYt": "s3a4OQR-10M"
+    },
+    {
+      "rank": 30,
       "song": "What You Need",
       "artist": "Tems",
       "songYt": "UHV0ja0vhzU",
       "videoYt": "A__GXZsG3hk"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "song": "Animal",
       "artist": "KATSEYE",
-      "songYt": "kDsRsv3DsHg",
+      "songYt": "Cx-rRpsKoTg",
       "videoYt": "m7k9UMcHbr0"
     },
     {
-      "rank": 31,
-      "song": "Think As You Drunk",
-      "artist": "Riley Green",
-      "songYt": "G7xAVHkWaro",
-      "videoYt": "5SCJM6aYsK0"
-    },
-    {
       "rank": 32,
-      "song": "Oh Yeah?",
-      "artist": "Steve Lacy",
-      "songYt": "2zPGWGqdfJ8",
-      "videoYt": "yGHEis32s2Y"
-    },
-    {
-      "rank": 33,
       "song": "Mr. Know It All",
       "artist": "Teddy Swims",
       "songYt": "SkHJ5ChXcDo",
       "videoYt": "KllnaNOxe0I"
+    },
+    {
+      "rank": 33,
+      "song": "Rethink Some Things",
+      "artist": "Luke Combs",
+      "songYt": "2hUrXdyUf5k",
+      "videoYt": "_sGYTO--kS4"
     },
     {
       "rank": 34,
@@ -246,101 +246,101 @@
     },
     {
       "rank": 35,
-      "song": "Cinderella",
-      "artist": "Mac Miller Featuring Ty Dolla $ign",
-      "songYt": "wbt_E7LNDaA",
-      "videoYt": "FFamEq1PilQ"
-    },
-    {
-      "rank": 36,
-      "song": "Take Me Back (Leave Me There)",
-      "artist": "Cody Johnson",
-      "songYt": "uoKgr_oYHsA",
-      "videoYt": "Dw0BMxfHNIU"
-    },
-    {
-      "rank": 37,
-      "song": "Rethink Some Things",
-      "artist": "Luke Combs",
-      "songYt": "2hUrXdyUf5k",
-      "videoYt": "_sGYTO--kS4"
-    },
-    {
-      "rank": 38,
-      "song": "Dai Dai (FIFA World Cup Official Song 2026)",
-      "artist": "Shakira X Burna Boy",
-      "songYt": "lFQdcPTTzSg",
-      "videoYt": "fcnDmrtj6Sk"
-    },
-    {
-      "rank": 39,
       "song": "My Body Isn't Ready",
       "artist": "sombr",
       "songYt": "eXw2R_CTlU8",
       "videoYt": "ofywN3NgGqY"
     },
     {
-      "rank": 40,
-      "song": "AH HA",
-      "artist": "Cardi B",
-      "songYt": "rUz4jNDHKu0",
-      "videoYt": "I-5e_J3LWS8"
+      "rank": 36,
+      "song": "Oh Yeah?",
+      "artist": "Steve Lacy",
+      "songYt": "2zPGWGqdfJ8",
+      "videoYt": "yGHEis32s2Y"
     },
     {
-      "rank": 41,
-      "song": "Self Aware",
-      "artist": "Temper City",
-      "songYt": "R-hYM3BqTbA",
-      "videoYt": "mh4AQkw4Jjc"
+      "rank": 37,
+      "song": "Take Me Back (Leave Me There)",
+      "artist": "Cody Johnson",
+      "songYt": "uoKgr_oYHsA",
+      "videoYt": "Dw0BMxfHNIU"
     },
     {
-      "rank": 42,
+      "rank": 38,
       "song": "Lush Life",
       "artist": "Zara Larsson",
       "songYt": "RG-D4bcg54s",
       "videoYt": "tD4HCZe-tew"
     },
     {
-      "rank": 43,
-      "song": "Spend Dat",
-      "artist": "Yung Miami",
-      "songYt": "lMp2a_G-mr4",
-      "videoYt": "NSZ26l3DIKE"
+      "rank": 39,
+      "song": "Great Expectation",
+      "artist": "Sienna Spiro",
+      "songYt": "_5-Dzam3jPU",
+      "videoYt": "B452TVVco2Q"
     },
     {
-      "rank": 44,
+      "rank": 40,
+      "song": "Cinderella",
+      "artist": "Mac Miller Featuring Ty Dolla $ign",
+      "songYt": "wbt_E7LNDaA",
+      "videoYt": "FFamEq1PilQ"
+    },
+    {
+      "rank": 41,
+      "song": "AH HA",
+      "artist": "Cardi B",
+      "songYt": "rUz4jNDHKu0",
+      "videoYt": "I-5e_J3LWS8"
+    },
+    {
+      "rank": 42,
       "song": "So Good",
       "artist": "Jhene Aiko Featuring Kendrick Lamar",
       "songYt": "KFcZLiCJGyU",
       "videoYt": "QArBw68H-_Q"
     },
     {
+      "rank": 43,
+      "song": "Empty Words",
+      "artist": "Corey Kent",
+      "songYt": "31UwuvL9T5c",
+      "videoYt": "APVXZQ5EOvA"
+    },
+    {
+      "rank": 44,
+      "song": "Carry On",
+      "artist": "Kenny Chesney",
+      "songYt": "0R2pjKSDz3A",
+      "videoYt": "3im-HOZNMIM"
+    },
+    {
       "rank": 45,
-      "song": "September",
-      "artist": "Earth, Wind & Fire",
-      "songYt": "B2mmDEv0OEk",
-      "videoYt": "Gs069dndIYk"
+      "song": "Self Aware",
+      "artist": "Temper City",
+      "songYt": "R-hYM3BqTbA",
+      "videoYt": "mh4AQkw4Jjc"
     },
     {
       "rank": 46,
-      "song": "Shabang",
-      "artist": "Drake",
-      "songYt": "fpr2AM8ziEs",
-      "videoYt": "MoR47PedfaU"
+      "song": "Think As You Drunk",
+      "artist": "Riley Green",
+      "songYt": "G7xAVHkWaro",
+      "videoYt": "5SCJM6aYsK0"
     },
     {
       "rank": 47,
-      "song": "Morning Dew (Donk)",
-      "artist": "Beyonce",
-      "songYt": "3P6IiSRgLhI",
-      "videoYt": "Mv5f9Q2LJYM"
-    },
-    {
-      "rank": 48,
       "song": "Bloodstream",
       "artist": "Alyssa Grace",
       "songYt": "CLSuAhT71yU",
       "videoYt": "FOJ4A4wixDg"
+    },
+    {
+      "rank": 48,
+      "song": "Dai Dai (FIFA World Cup Official Song 2026)",
+      "artist": "Shakira X Burna Boy",
+      "songYt": "lFQdcPTTzSg",
+      "videoYt": "fcnDmrtj6Sk"
     },
     {
       "rank": 49,
@@ -351,87 +351,87 @@
     },
     {
       "rank": 50,
-      "song": "Freakin' Out",
-      "artist": "Dexter And The Moonrocks",
-      "songYt": "7Exi4_Za-Qc",
-      "videoYt": "Sf73y9GrJ4I"
-    },
-    {
-      "rank": 51,
-      "song": "Carry On",
-      "artist": "Kenny Chesney",
-      "songYt": "0R2pjKSDz3A",
-      "videoYt": "3im-HOZNMIM"
-    },
-    {
-      "rank": 52,
-      "song": "Bass Persuades",
-      "artist": "Miley",
-      "songYt": "D70Ld2UoZVI",
-      "videoYt": "aWpw-Ynl0Yc"
-    },
-    {
-      "rank": 53,
       "song": "WTF GOIN",
       "artist": "Belly Gang Kushington & 21 Savage",
       "songYt": "YxyHh1llzH8",
       "videoYt": "xxFjwI1qYmc"
     },
     {
-      "rank": 54,
+      "rank": 51,
+      "song": "Freakin' Out",
+      "artist": "Dexter And The Moonrocks",
+      "songYt": "7Exi4_Za-Qc",
+      "videoYt": "Sf73y9GrJ4I"
+    },
+    {
+      "rank": 52,
       "song": "Phone, Keys, Wallet",
       "artist": "Lainey Wilson & John Mayer",
       "songYt": "khQxvmRwcXY",
       "videoYt": "yUkTWIBR1qg"
     },
     {
+      "rank": 53,
+      "song": "Spend Dat",
+      "artist": "Yung Miami",
+      "songYt": "lMp2a_G-mr4",
+      "videoYt": "NSZ26l3DIKE"
+    },
+    {
+      "rank": 54,
+      "song": "Shabang",
+      "artist": "Drake",
+      "songYt": "fpr2AM8ziEs",
+      "videoYt": "MoR47PedfaU"
+    },
+    {
       "rank": 55,
-      "song": "Miss My Dawg",
-      "artist": "Yeat & Drake",
-      "songYt": "ZV-98M6SWDE",
-      "videoYt": "eUdrJEWcIao"
+      "song": "Morning Dew (Donk)",
+      "artist": "Beyonce",
+      "songYt": "3P6IiSRgLhI",
+      "videoYt": "Mv5f9Q2LJYM"
     },
     {
       "rank": 56,
+      "song": "Something To Lose",
+      "artist": "Stella Lefty With Vincent Mason",
+      "songYt": "j2H-bWXXVT8",
+      "videoYt": "HUOeUG3daIY"
+    },
+    {
+      "rank": 57,
+      "song": "Kid Myself",
+      "artist": "John Morgan",
+      "songYt": "i5BcTWToS6w",
+      "videoYt": "tC3Fnl1SBFs"
+    },
+    {
+      "rank": 58,
+      "song": "Pink Blush",
+      "artist": "Dolly Babe Featuring Megan Thee Stallion",
+      "songYt": "AaozF8zHHT0",
+      "videoYt": "6DEjZE4yLk4"
+    },
+    {
+      "rank": 59,
       "song": "Rein Me In",
       "artist": "Sam Fender & Olivia Dean",
       "songYt": "NO3JTAsB4NI",
       "videoYt": "3triLkS0nq4"
     },
     {
-      "rank": 57,
-      "song": "Something To Lose",
-      "artist": "Stella Lefty Featuring Vincent Mason",
-      "songYt": "LXYsVStVen0",
-      "videoYt": "HUOeUG3daIY"
-    },
-    {
-      "rank": 58,
-      "song": "Great Expectation",
-      "artist": "Sienna Spiro",
-      "songYt": "_5-Dzam3jPU",
-      "videoYt": "B452TVVco2Q"
-    },
-    {
-      "rank": 59,
-      "song": "Hit The Wall",
-      "artist": "Gracie Abrams",
-      "songYt": "NdmezP0JBqc",
-      "videoYt": "jFCTQ68gxoY"
-    },
-    {
       "rank": 60,
-      "song": "My Way",
-      "artist": "Riley Green",
-      "songYt": "bBbeanyKcT8",
-      "videoYt": "O28hygrEhF8"
+      "song": "Cowgirl",
+      "artist": "Shaboozey",
+      "songYt": "c4QuZZbg-Ms",
+      "videoYt": "u0g8elvennQ"
     },
     {
       "rank": 61,
-      "song": "Kid Myself",
-      "artist": "John Morgan",
-      "songYt": "i5BcTWToS6w",
-      "videoYt": "tC3Fnl1SBFs"
+      "song": "onsra",
+      "artist": "comehelpglo",
+      "songYt": "-hMYooJLq0I",
+      "videoYt": "9UQGXUlMYFU"
     },
     {
       "rank": 62,
@@ -442,45 +442,45 @@
     },
     {
       "rank": 63,
-      "song": "Cowgirl",
-      "artist": "Shaboozey",
-      "songYt": "c4QuZZbg-Ms",
-      "videoYt": "u0g8elvennQ"
+      "song": "My Way",
+      "artist": "Riley Green",
+      "songYt": "bBbeanyKcT8",
+      "videoYt": "O28hygrEhF8"
     },
     {
       "rank": 64,
+      "song": "Stop The Wedding!",
+      "artist": "Ashe",
+      "songYt": "WNxAvQNsJuM",
+      "videoYt": "DLV8FpyxZPQ"
+    },
+    {
+      "rank": 65,
+      "song": "Maggots For Brains",
+      "artist": "Olivia Rodrigo",
+      "songYt": "-h1ZefBxAek",
+      "videoYt": "tEiN7rkGztA"
+    },
+    {
+      "rank": 66,
+      "song": "All My Exes",
+      "artist": "Lauren Alaina Featuring Chase Matthew",
+      "songYt": "Wo6TBi7DMQQ",
+      "videoYt": "OWanu5I64oc"
+    },
+    {
+      "rank": 67,
       "song": "Ghetto Love Story",
       "artist": "BabyChiefDoit",
       "songYt": "cCQUHG-njCk",
       "videoYt": "C-47Vg6Eq5o"
     },
     {
-      "rank": 65,
-      "song": "That's Just Me",
-      "artist": "Riley Green",
-      "songYt": "8KUnTJmBC6U",
-      "videoYt": "TooTz7gIwbc"
-    },
-    {
-      "rank": 66,
-      "song": "Empty Words",
-      "artist": "Corey Kent",
-      "songYt": "31UwuvL9T5c",
-      "videoYt": "APVXZQ5EOvA"
-    },
-    {
-      "rank": 67,
-      "song": "Mexico Honey",
-      "artist": "Kacey Musgraves",
-      "songYt": "GONDSIdib10",
-      "videoYt": "5aXZ0fjAiho"
-    },
-    {
       "rank": 68,
-      "song": "onsra",
-      "artist": "comehelpglo",
-      "songYt": "-hMYooJLq0I",
-      "videoYt": "9UQGXUlMYFU"
+      "song": "Honeybee",
+      "artist": "Olivia Rodrigo",
+      "songYt": "XezOkkUM--w",
+      "videoYt": "60rlboK94mE"
     },
     {
       "rank": 69,
@@ -491,220 +491,220 @@
     },
     {
       "rank": 70,
-      "song": "McArthur",
-      "artist": "HARDY , Eric Church , Morgan Wallen & Tim McGraw",
-      "songYt": "-H6wmHbwAnE",
-      "videoYt": "tW8F8JCn6UQ"
-    },
-    {
-      "rank": 71,
-      "song": "Noble",
-      "artist": "F3miii",
-      "songYt": "4rDMvIZ4nWE",
-      "videoYt": "Pz-SZlU4C10"
-    },
-    {
-      "rank": 72,
-      "song": "All My Exes",
-      "artist": "Lauren Alaina Featuring Chase Matthew",
-      "songYt": "Wo6TBi7DMQQ",
-      "videoYt": "WGNgyZFmiv8"
-    },
-    {
-      "rank": 73,
       "song": "The Feeling",
       "artist": "Steve Lacy",
-      "songYt": "YP58H5RBMXI",
+      "songYt": "5fg_aqJxtHU",
       "videoYt": "Qw20tg1v7Fc"
     },
     {
-      "rank": 74,
-      "song": "Chevy Silverado",
-      "artist": "Bailey Zimmerman",
-      "songYt": "qoUlArtDCWc",
-      "videoYt": "TMkt8GcHX0g"
-    },
-    {
-      "rank": 75,
+      "rank": 71,
       "song": "Another Drink",
       "artist": "Marshmello & Kelsea Ballerini",
       "songYt": "m2M5dCYEPmw",
       "videoYt": "UW1UKhrQphI"
     },
     {
-      "rank": 76,
-      "song": "Country And She Knows It",
-      "artist": "Luke Bryan",
-      "songYt": "unBCabBo8qY",
-      "videoYt": "zHlzvcv3oyk"
+      "rank": 72,
+      "song": "Bass Persuades",
+      "artist": "Miley",
+      "songYt": "NGf7iyhlRdo",
+      "videoYt": "aWpw-Ynl0Yc"
     },
     {
-      "rank": 77,
-      "song": "Stop The Wedding!",
-      "artist": "Ashe",
-      "songYt": "WNxAvQNsJuM",
-      "videoYt": "DLV8FpyxZPQ"
+      "rank": 73,
+      "song": "Mexico Honey",
+      "artist": "Kacey Musgraves",
+      "songYt": "GONDSIdib10",
+      "videoYt": "5aXZ0fjAiho"
     },
     {
-      "rank": 78,
-      "song": "String By",
-      "artist": "Mack Geiger",
-      "songYt": "Y-_glJEOo6Q",
-      "videoYt": "6UeVVloQlhE"
-    },
-    {
-      "rank": 79,
-      "song": "Painted You Pretty",
-      "artist": "Hudson Westbrook",
-      "songYt": "guqBECas1Cc",
-      "videoYt": "uGZ240yJLiY"
-    },
-    {
-      "rank": 80,
-      "song": "Get To Drinkin'",
-      "artist": "Zach John King",
-      "songYt": "ZuLriKuV2RA",
-      "videoYt": "QKqVNr4xFPI"
-    },
-    {
-      "rank": 81,
-      "song": "Maggots For Brains",
-      "artist": "Olivia Rodrigo",
-      "songYt": "-h1ZefBxAek",
-      "videoYt": "lwiQSOaI_XE"
-    },
-    {
-      "rank": 82,
-      "song": "Joseph",
-      "artist": "Falling in Reverse , Corey Taylor & Serj Tankian",
-      "songYt": "lKVZKG7CcMU",
-      "videoYt": "Tk9TM7-eTmw"
-    },
-    {
-      "rank": 83,
-      "song": "Finders Keepers",
-      "artist": "Luke Bryan & Luke Combs",
-      "songYt": "KrpJ_vOmQiE",
-      "videoYt": "SdezZCDkWQg"
-    },
-    {
-      "rank": 84,
-      "song": "RHYNO",
-      "artist": "Travis Scott",
-      "songYt": "7yJEkQmXVNM",
-      "videoYt": "3Ev1PQEm7ns"
-    },
-    {
-      "rank": 85,
-      "song": "Honeybee",
-      "artist": "Olivia Rodrigo",
-      "songYt": "XezOkkUM--w",
-      "videoYt": "60rlboK94mE"
-    },
-    {
-      "rank": 86,
-      "song": "Ahi",
-      "artist": "Karol G With Drake",
-      "songYt": "OlEHhsX3w0c",
-      "videoYt": "pq7iByc9CYs"
-    },
-    {
-      "rank": 87,
-      "song": "Hands Up",
-      "artist": "Jelly Roll",
-      "songYt": "6DPkDnUL1so",
-      "videoYt": "GDp3q59ZWZE"
-    },
-    {
-      "rank": 88,
-      "song": "God I'm Just Grateful",
-      "artist": "Elevation Worship & Chandler Moore",
-      "songYt": "nlCgfY-IyAc",
-      "videoYt": "YbGFYaA0SbY"
-    },
-    {
-      "rank": 89,
-      "song": "Say So",
-      "artist": "Dan + Shay",
-      "songYt": "HnOfCPQTo38",
-      "videoYt": "YuF6eZROXIw"
-    },
-    {
-      "rank": 90,
-      "song": "He Belongs",
-      "artist": "Jhene Aiko",
-      "songYt": "DJo6ucBMVSU",
-      "videoYt": "VoS7XXdWx0I"
-    },
-    {
-      "rank": 91,
-      "song": "Still",
-      "artist": "Karol G With Bruno Mars",
-      "songYt": "kgK3iGwtqr4",
-      "videoYt": "aQXq3ndLkHs"
-    },
-    {
-      "rank": 92,
-      "song": "Babydoll",
-      "artist": "Jamie Miller",
-      "songYt": "G_FNGJeAWlk",
-      "videoYt": "8g25GeJgxgs"
-    },
-    {
-      "rank": 93,
-      "song": "Duvet",
-      "artist": "boa",
-      "songYt": "o7fgFaXKVa0",
-      "videoYt": "Uoox9fpmDP0"
-    },
-    {
-      "rank": 94,
-      "song": "Nothing",
-      "artist": "Steve Lacy",
-      "songYt": "vQs-U3VlD0U",
-      "videoYt": "PbD5tyvPycw"
-    },
-    {
-      "rank": 95,
-      "song": "Dope Girl",
-      "artist": "Rod Wave",
-      "songYt": "Y_CCfwQW_3g",
-      "videoYt": "g9Yo1sLnbjo"
-    },
-    {
-      "rank": 96,
-      "song": "Ghost",
-      "artist": "Jhene Aiko",
-      "songYt": "0YMt6raThNE",
-      "videoYt": "m4t6YeTJFfY"
-    },
-    {
-      "rank": 97,
-      "song": "Bet On That",
-      "artist": "Blake Whiten",
-      "songYt": "UNvcr3rkXm8",
-      "videoYt": "mIWMqXU4tGQ"
-    },
-    {
-      "rank": 98,
+      "rank": 74,
       "song": "Expectations",
       "artist": "Olivia Rodrigo",
       "songYt": "ZYUql_ZPHrc",
       "videoYt": "nBv5BzFpvvE"
     },
     {
-      "rank": 99,
-      "song": "Let’s Get Married",
-      "artist": "Miley Cyrus",
-      "songYt": "neTb4rZ4WCQ",
-      "videoYt": "qwaVhOZkAek"
+      "rank": 75,
+      "song": "Country And She Knows It",
+      "artist": "Luke Bryan",
+      "songYt": "unBCabBo8qY",
+      "videoYt": "zHlzvcv3oyk"
     },
     {
-      "rank": 100,
+      "rank": 76,
+      "song": "Chevy Silverado",
+      "artist": "Bailey Zimmerman",
+      "songYt": "qoUlArtDCWc",
+      "videoYt": "TMkt8GcHX0g"
+    },
+    {
+      "rank": 77,
+      "song": "Nothing",
+      "artist": "Steve Lacy",
+      "songYt": "vQs-U3VlD0U",
+      "videoYt": "PbD5tyvPycw"
+    },
+    {
+      "rank": 78,
+      "song": "Painted You Pretty",
+      "artist": "Hudson Westbrook",
+      "songYt": "guqBECas1Cc",
+      "videoYt": "uGZ240yJLiY"
+    },
+    {
+      "rank": 79,
+      "song": "Get To Drinkin'",
+      "artist": "Zach John King",
+      "songYt": "ZuLriKuV2RA",
+      "videoYt": "QKqVNr4xFPI"
+    },
+    {
+      "rank": 80,
+      "song": "String By",
+      "artist": "Mack Geiger",
+      "songYt": "Y-_glJEOo6Q",
+      "videoYt": "6UeVVloQlhE"
+    },
+    {
+      "rank": 81,
+      "song": "Babydoll",
+      "artist": "Jamie Miller",
+      "songYt": "G_FNGJeAWlk",
+      "videoYt": "8g25GeJgxgs"
+    },
+    {
+      "rank": 82,
+      "song": "Duvet",
+      "artist": "boa",
+      "songYt": "o7fgFaXKVa0",
+      "videoYt": "Uoox9fpmDP0"
+    },
+    {
+      "rank": 83,
+      "song": "Hit The Wall",
+      "artist": "Gracie Abrams",
+      "songYt": "NdmezP0JBqc",
+      "videoYt": "jFCTQ68gxoY"
+    },
+    {
+      "rank": 84,
+      "song": "Ahi",
+      "artist": "Karol G With Drake",
+      "songYt": "OlEHhsX3w0c",
+      "videoYt": "pq7iByc9CYs"
+    },
+    {
+      "rank": 85,
+      "song": "Say So",
+      "artist": "Dan + Shay",
+      "songYt": "HnOfCPQTo38",
+      "videoYt": "YuF6eZROXIw"
+    },
+    {
+      "rank": 86,
+      "song": "Bet On That",
+      "artist": "Blake Whiten",
+      "songYt": "UNvcr3rkXm8",
+      "videoYt": "mIWMqXU4tGQ"
+    },
+    {
+      "rank": 87,
+      "song": "God I'm Just Grateful",
+      "artist": "Elevation Worship & Chandler Moore",
+      "songYt": "nlCgfY-IyAc",
+      "videoYt": "YbGFYaA0SbY"
+    },
+    {
+      "rank": 88,
+      "song": "What's Wrong With Me",
+      "artist": "Olivia Rodrigo & Robert Smith",
+      "songYt": "zT0a4u-cFlY",
+      "videoYt": "oOEGRpfitAg"
+    },
+    {
+      "rank": 89,
+      "song": "Dope Girl",
+      "artist": "Rod Wave",
+      "songYt": "Y_CCfwQW_3g",
+      "videoYt": "2-D1AauBSdo"
+    },
+    {
+      "rank": 90,
+      "song": "Still",
+      "artist": "Karol G With Bruno Mars",
+      "songYt": "kgK3iGwtqr4",
+      "videoYt": "aQXq3ndLkHs"
+    },
+    {
+      "rank": 91,
+      "song": "Less",
+      "artist": "Olivia Rodrigo",
+      "songYt": "EV_eMMhS0Iw",
+      "videoYt": "Z4BGtpcp1Jg"
+    },
+    {
+      "rank": 92,
+      "song": "Hands Up",
+      "artist": "Jelly Roll",
+      "songYt": "6DPkDnUL1so",
+      "videoYt": "GDp3q59ZWZE"
+    },
+    {
+      "rank": 93,
+      "song": "Cigarette Smoke",
+      "artist": "Olivia Rodrigo",
+      "songYt": "ldmwAfO_jVs",
+      "videoYt": "mA9HZEJfmGw"
+    },
+    {
+      "rank": 94,
+      "song": "I'm Spent",
+      "artist": "Drake Featuring Loe Shimmy",
+      "songYt": "UUkcFbDM0aw",
+      "videoYt": "elFnIw3RoaU"
+    },
+    {
+      "rank": 95,
+      "song": "Amor",
+      "artist": "Emmanuel Cortes",
+      "songYt": "2C29r956v40",
+      "videoYt": "TX-1dI8t6WM"
+    },
+    {
+      "rank": 96,
       "song": "Kingdom Of Fear",
       "artist": "Cameron Whitcomb",
       "songYt": "8uAtmmUJwkE",
       "videoYt": "63k0kNuCPak"
+    },
+    {
+      "rank": 97,
+      "song": "u + me = <3",
+      "artist": "Olivia Rodrigo",
+      "songYt": "T_UEawa2wCk",
+      "videoYt": "p-YnaSsGsPU"
+    },
+    {
+      "rank": 98,
+      "song": "Washed",
+      "artist": "ELEVATION RHYTHM",
+      "songYt": "WQaYIGFTTrE",
+      "videoYt": "JjgkhHlTROQ"
+    },
+    {
+      "rank": 99,
+      "song": "Begged",
+      "artist": "Olivia Rodrigo",
+      "songYt": "bucJiXhxoCg",
+      "videoYt": "NmGGDYyJ8tU"
+    },
+    {
+      "rank": 100,
+      "song": "Pure",
+      "artist": "Sienna Spiro",
+      "songYt": "_P_NuPjHrvQ",
+      "videoYt": "jaCxgxTScjc"
     }
   ]
 }
