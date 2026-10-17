@@ -1,192 +1,192 @@
 {
-  "week": "2026-W41",
-  "date": "2026-10-10",
+  "week": "2026-W42",
+  "date": "2026-10-17",
   "chart": "Global 200 Songs",
-  "description": "Billboard Global 200 Songs | Auto-updated weekly. | Chart week: 2026-10-10",
+  "description": "Billboard Global 200 Songs | Auto-updated weekly. | Chart week: 2026-10-17",
   "playlist_songYt": "PLFrR9Nex6SYo",
   "playlist_videoYt": "PLJ8OExDMwoGg",
   "entries": [
     {
       "rank": 1,
+      "song": "BbY WOW",
+      "artist": "Karol G With Judeline & rusowsky",
+      "songYt": "ljAH6jNaApU",
+      "videoYt": "ckPbVDXw9Gc"
+    },
+    {
+      "rank": 2,
       "song": "Patient Zero",
       "artist": "Taylor Swift",
       "songYt": "V-uIp-WuD60",
       "videoYt": "mw3kSNIxjqo"
     },
     {
-      "rank": 2,
-      "song": "Cleveland!",
-      "artist": "Taylor Swift",
-      "songYt": "G-C9t4MLrbA",
-      "videoYt": "jfVVXYTZykw"
-    },
-    {
       "rank": 3,
-      "song": "BbY WOW",
-      "artist": "Karol G With Judeline & rusowsky",
-      "songYt": "ljAH6jNaApU",
-      "videoYt": "fRIhCiUVaKs"
-    },
-    {
-      "rank": 4,
-      "song": "Babylon",
-      "artist": "Taylor Swift",
-      "songYt": "cCvLt6gqAIA",
-      "videoYt": "tZnNLoPKriU"
-    },
-    {
-      "rank": 5,
-      "song": "Pink Clouding",
-      "artist": "Taylor Swift",
-      "songYt": "9FHuWije2VE",
-      "videoYt": "kXOKQCtttbw"
-    },
-    {
-      "rank": 6,
       "song": "Nicole Kidman",
       "artist": "ADELA",
       "songYt": "h-zuG75Ds-w",
       "videoYt": "3sB4Iv_tM7U"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "song": "Choosin' Texas",
       "artist": "Ella Langley",
       "songYt": "xukbqwRuN5w",
       "videoYt": "nUsrYVxrDwI"
     },
     {
-      "rank": 8,
-      "song": "The Fate Of Ophelia",
-      "artist": "Taylor Swift",
-      "songYt": "7nVctvQVz0U",
-      "videoYt": "ko70cExuzZM"
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "song": "Ain't In LA",
       "artist": "ADELA",
       "songYt": "nyNm-dVBMoo",
       "videoYt": "0ijm2Xui5N8"
     },
     {
-      "rank": 10,
+      "rank": 6,
       "song": "Training Season",
       "artist": "Dua Lipa",
       "songYt": "n0GXk_T2zs8",
       "videoYt": "ZjBZ8MUnB0E"
     },
     {
-      "rank": 11,
+      "rank": 7,
       "song": "Stupid Song",
       "artist": "Olivia Rodrigo",
       "songYt": "P7VgXIZSN_w",
       "videoYt": "Rt9tW3cMLhI"
     },
     {
-      "rank": 12,
+      "rank": 8,
+      "song": "Solar Eclipse",
+      "artist": "Drake & Don Toliver",
+      "songYt": "eJFi2TK5174",
+      "videoYt": "vBk30V8AukM"
+    },
+    {
+      "rank": 9,
       "song": "The Cure",
       "artist": "Olivia Rodrigo",
       "songYt": "cmzCwz4NkOA",
       "videoYt": "B402rKl4bUg"
     },
     {
-      "rank": 13,
+      "rank": 10,
       "song": "Ordinary",
       "artist": "Alex Warren",
       "songYt": "TR19QSL7WuQ",
       "videoYt": "u2ah9tWTkmk"
     },
     {
-      "rank": 14,
-      "song": "Dai Dai (FIFA World Cup Official Song 2026)",
-      "artist": "Shakira X Burna Boy",
-      "songYt": "lFQdcPTTzSg",
-      "videoYt": "fcnDmrtj6Sk"
-    },
-    {
-      "rank": 15,
-      "song": "Hate That I Made You Love Me",
-      "artist": "Ariana Grande",
-      "songYt": "-YOpbOA8-5o",
-      "videoYt": "82-jTNka3uc"
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "song": "Man I Need",
       "artist": "Olivia Dean",
       "songYt": "fsGjRf-N71I",
       "videoYt": "oIv_Y2RPQ_A"
     },
     {
-      "rank": 17,
-      "song": "Loser",
-      "artist": "Tame Impala",
-      "songYt": "MX7FSAnRPug",
-      "videoYt": "s3a4OQR-10M"
+      "rank": 12,
+      "song": "Dai Dai (FIFA World Cup Official Song 2026)",
+      "artist": "Shakira X Burna Boy",
+      "songYt": "lFQdcPTTzSg",
+      "videoYt": "fcnDmrtj6Sk"
     },
     {
-      "rank": 18,
-      "song": "Earrings",
-      "artist": "Malcolm Todd",
-      "songYt": "BI9HQCzpDgQ",
-      "videoYt": "a4tdS3IB294"
+      "rank": 13,
+      "song": "The Fate Of Ophelia",
+      "artist": "Taylor Swift",
+      "songYt": "7nVctvQVz0U",
+      "videoYt": "ko70cExuzZM"
     },
     {
-      "rank": 19,
-      "song": "Beauty And A Beat",
-      "artist": "Justin Bieber Featuring Nicki Minaj",
-      "songYt": "aWkPBCF8rFU",
-      "videoYt": "Ys7-6_t7OEQ"
+      "rank": 14,
+      "song": "Hate That I Made You Love Me",
+      "artist": "Ariana Grande",
+      "songYt": "-YOpbOA8-5o",
+      "videoYt": "82-jTNka3uc"
     },
     {
-      "rank": 20,
-      "song": "Self Aware",
-      "artist": "Temper City",
-      "songYt": "R-hYM3BqTbA",
-      "videoYt": "mh4AQkw4Jjc"
-    },
-    {
-      "rank": 21,
-      "song": "Dracula",
-      "artist": "Tame Impala & JENNIE",
-      "songYt": "6KjVYeQ9SRw",
-      "videoYt": "xnP7qKxwzjg"
-    },
-    {
-      "rank": 22,
-      "song": "Boston",
-      "artist": "Stella Lefty",
-      "songYt": "OzAmRkR33eo",
-      "videoYt": "Xh0GyxWgKPs"
-    },
-    {
-      "rank": 23,
-      "song": "Iris",
-      "artist": "Goo Goo Dolls",
-      "songYt": "Dy_eP-mqWow",
-      "videoYt": "NdYWuo9OFAw"
-    },
-    {
-      "rank": 24,
+      "rank": 15,
       "song": "Great Expectation",
       "artist": "Sienna Spiro",
       "songYt": "_5-Dzam3jPU",
       "videoYt": "B452TVVco2Q"
     },
     {
-      "rank": 25,
+      "rank": 16,
+      "song": "Stop The Wedding!",
+      "artist": "Ashe",
+      "songYt": "WNxAvQNsJuM",
+      "videoYt": "DLV8FpyxZPQ"
+    },
+    {
+      "rank": 17,
+      "song": "Earrings",
+      "artist": "Malcolm Todd",
+      "songYt": "BI9HQCzpDgQ",
+      "videoYt": "a4tdS3IB294"
+    },
+    {
+      "rank": 18,
+      "song": "Loser",
+      "artist": "Tame Impala",
+      "songYt": "MX7FSAnRPug",
+      "videoYt": "s3a4OQR-10M"
+    },
+    {
+      "rank": 19,
+      "song": "Self Aware",
+      "artist": "Temper City",
+      "songYt": "R-hYM3BqTbA",
+      "videoYt": "mh4AQkw4Jjc"
+    },
+    {
+      "rank": 20,
+      "song": "Quebec",
+      "artist": "Drake",
+      "songYt": "6gRbAU4Puek",
+      "videoYt": "y56D2WIeKxg"
+    },
+    {
+      "rank": 21,
+      "song": "Beauty And A Beat",
+      "artist": "Justin Bieber Featuring Nicki Minaj",
+      "songYt": "aWkPBCF8rFU",
+      "videoYt": "Ys7-6_t7OEQ"
+    },
+    {
+      "rank": 22,
+      "song": "Dracula",
+      "artist": "Tame Impala & JENNIE",
+      "songYt": "6KjVYeQ9SRw",
+      "videoYt": "xnP7qKxwzjg"
+    },
+    {
+      "rank": 23,
+      "song": "Boston",
+      "artist": "Stella Lefty",
+      "songYt": "OzAmRkR33eo",
+      "videoYt": "Xh0GyxWgKPs"
+    },
+    {
+      "rank": 24,
       "song": "Die With A Smile",
       "artist": "Lady Gaga & Bruno Mars",
       "songYt": "DlFXDl_ROAM",
       "videoYt": "kPa7bsKwL-c"
     },
     {
+      "rank": 25,
+      "song": "Iris",
+      "artist": "Goo Goo Dolls",
+      "songYt": "Dy_eP-mqWow",
+      "videoYt": "NdYWuo9OFAw"
+    },
+    {
       "rank": 26,
-      "song": "Love Me Not",
-      "artist": "Ravyn Lenae",
-      "songYt": "HfpR4tAmI7E",
-      "videoYt": "cswfR85D7jM"
+      "song": "Billie Jean",
+      "artist": "Michael Jackson",
+      "songYt": "7CTJcHjkq0E",
+      "videoYt": "Zi_XLOBDo_Y"
     },
     {
       "rank": 27,
@@ -197,185 +197,185 @@
     },
     {
       "rank": 28,
-      "song": "Billie Jean",
-      "artist": "Michael Jackson",
-      "songYt": "7CTJcHjkq0E",
-      "videoYt": "Zi_XLOBDo_Y"
+      "song": "Cold Shoulder",
+      "artist": "Drake , Don Toliver & Yebba",
+      "songYt": "bzO58iQM19g",
+      "videoYt": "AzUzdpHSUTo"
     },
     {
       "rank": 29,
+      "song": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "songYt": "HfpR4tAmI7E",
+      "videoYt": "cswfR85D7jM"
+    },
+    {
+      "rank": 30,
       "song": "Mr. Brightside",
       "artist": "The Killers",
       "songYt": "m2zUrruKjDQ",
       "videoYt": "gGdGFtwCNBE"
     },
     {
-      "rank": 30,
-      "song": "Golden",
-      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-      "songYt": "9_bTl2vvYQg",
-      "videoYt": "7P-ODFkHd5Y"
-    },
-    {
       "rank": 31,
-      "song": "Movin' To The Sun",
-      "artist": "HUGEL , Imael Angel & Ultra Nate",
-      "songYt": "B827pl48xkU",
-      "videoYt": "bJ7yyX4Qic4"
-    },
-    {
-      "rank": 32,
       "song": "Back To Friends",
       "artist": "sombr",
       "songYt": "c-8abSPAPOU",
       "videoYt": "c8zq4kAn_O0"
     },
     {
+      "rank": 32,
+      "song": "Golden",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "songYt": "9_bTl2vvYQg",
+      "videoYt": "7P-ODFkHd5Y"
+    },
+    {
       "rank": 33,
-      "song": "The One That Got Away",
-      "artist": "Katy Perry",
-      "songYt": "64wxAbbWNag",
-      "videoYt": "Ahha3Cqe_fk"
-    },
-    {
-      "rank": 34,
-      "song": "Opalite",
-      "artist": "Taylor Swift",
-      "songYt": "JCcUifiu3UU",
-      "videoYt": "1FVF-9KQiPo"
-    },
-    {
-      "rank": 35,
-      "song": "Wonderwall",
-      "artist": "Oasis",
-      "songYt": "hpSrLjc5SMs",
-      "videoYt": "bx1Bh8ZvH84"
-    },
-    {
-      "rank": 36,
-      "song": "Drop Dead",
-      "artist": "Olivia Rodrigo",
-      "songYt": "wLmLB4Zzyiw",
-      "videoYt": "78wrful9cVU"
-    },
-    {
-      "rank": 37,
-      "song": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean",
-      "songYt": "7f_mlKlOLMo",
-      "videoYt": "3sur4BmjQt8"
-    },
-    {
-      "rank": 38,
       "song": "Sweater Weather",
       "artist": "The Neighbourhood",
       "songYt": "cULQhvuq1Zc",
       "videoYt": "GCdwKhTtNNw"
     },
     {
-      "rank": 39,
+      "rank": 34,
+      "song": "The One That Got Away",
+      "artist": "Katy Perry",
+      "songYt": "64wxAbbWNag",
+      "videoYt": "Ahha3Cqe_fk"
+    },
+    {
+      "rank": 35,
       "song": "Beautiful Things",
       "artist": "Benson Boone",
       "songYt": "eLhSxOAaWmg",
       "videoYt": "Oa_RSwwpPaA"
     },
     {
-      "rank": 40,
+      "rank": 36,
+      "song": "Wonderwall",
+      "artist": "Oasis",
+      "songYt": "hpSrLjc5SMs",
+      "videoYt": "bx1Bh8ZvH84"
+    },
+    {
+      "rank": 37,
       "song": "Babydoll",
       "artist": "Dominic Fike",
       "songYt": "UnuEzP1rDLY",
       "videoYt": "KqMOKCRgvD8"
     },
     {
+      "rank": 38,
+      "song": "Babylon",
+      "artist": "Taylor Swift",
+      "songYt": "cCvLt6gqAIA",
+      "videoYt": "tZnNLoPKriU"
+    },
+    {
+      "rank": 39,
+      "song": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "songYt": "7f_mlKlOLMo",
+      "videoYt": "3sur4BmjQt8"
+    },
+    {
+      "rank": 40,
+      "song": "Draw You Out",
+      "artist": "Noah Kahan",
+      "songYt": "_tIrGCUMHCY",
+      "videoYt": "OSdQnT_FhAs"
+    },
+    {
       "rank": 41,
-      "song": "Every Breath You Take",
-      "artist": "The Police",
-      "songYt": "-SaUrDhp034",
-      "videoYt": "OMOGaugKpzs"
+      "song": "Drop Dead",
+      "artist": "Olivia Rodrigo",
+      "songYt": "wLmLB4Zzyiw",
+      "videoYt": "78wrful9cVU"
     },
     {
       "rank": 42,
-      "song": "Creep",
-      "artist": "Radiohead",
-      "songYt": "9RfVp-GhKfs",
-      "videoYt": "XFkzRNyygfk"
-    },
-    {
-      "rank": 43,
-      "song": "Where Is My Husband!",
-      "artist": "RAYE",
-      "songYt": "94mq0YBsn8U",
-      "videoYt": "rK5TyISxZ_M"
-    },
-    {
-      "rank": 44,
       "song": "Animal",
       "artist": "KATSEYE",
       "songYt": "Cx-rRpsKoTg",
       "videoYt": "m7k9UMcHbr0"
     },
     {
+      "rank": 43,
+      "song": "Every Breath You Take",
+      "artist": "The Police",
+      "songYt": "-SaUrDhp034",
+      "videoYt": "OMOGaugKpzs"
+    },
+    {
+      "rank": 44,
+      "song": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "songYt": "9FHuWije2VE",
+      "videoYt": "kXOKQCtttbw"
+    },
+    {
       "rank": 45,
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "songYt": "x30_IHP1x3s",
-      "videoYt": "SD4yRDY9mek"
+      "song": "Creep",
+      "artist": "Radiohead",
+      "songYt": "9RfVp-GhKfs",
+      "videoYt": "XFkzRNyygfk"
     },
     {
       "rank": 46,
-      "song": "Olivia La Flaka",
-      "artist": "Natanael Cano , Tito Double P , Victor Mendivil & Ovi",
-      "songYt": "1KmNd-5Jq34",
-      "videoYt": "MYFFA242azM"
-    },
-    {
-      "rank": 47,
-      "song": "Last Thing You Need",
-      "artist": "Morgan Wallen",
-      "songYt": "v7yYmRGQaRk",
-      "videoYt": "9leAwpph-xs"
-    },
-    {
-      "rank": 48,
-      "song": "Dreams",
-      "artist": "Fleetwood Mac",
-      "songYt": "swJOIjjW69U",
-      "videoYt": "Y3ywicffOj4"
-    },
-    {
-      "rank": 49,
-      "song": "Stop The Wedding!",
-      "artist": "Ashe",
-      "songYt": "WNxAvQNsJuM",
-      "videoYt": "DLV8FpyxZPQ"
-    },
-    {
-      "rank": 50,
-      "song": "Sign Of The Times",
-      "artist": "Harry Styles",
-      "songYt": "oHVVoe2Vj8s",
-      "videoYt": "qN4ooNx77u0"
-    },
-    {
-      "rank": 51,
-      "song": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO",
-      "songYt": "i34pFNr42mc",
-      "videoYt": "NauRqgg9HbE"
-    },
-    {
-      "rank": 52,
       "song": "Rein Me In",
       "artist": "Sam Fender & Olivia Dean",
       "songYt": "NO3JTAsB4NI",
       "videoYt": "3triLkS0nq4"
     },
     {
-      "rank": 53,
+      "rank": 47,
+      "song": "Movin' To The Sun",
+      "artist": "HUGEL , Imael Angel & Ultra Nate",
+      "songYt": "B827pl48xkU",
+      "videoYt": "HBfDq669Ddk"
+    },
+    {
+      "rank": 48,
+      "song": "Where Is My Husband!",
+      "artist": "RAYE",
+      "songYt": "94mq0YBsn8U",
+      "videoYt": "rK5TyISxZ_M"
+    },
+    {
+      "rank": 49,
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "songYt": "x30_IHP1x3s",
+      "videoYt": "SD4yRDY9mek"
+    },
+    {
+      "rank": 50,
       "song": "End Of Beginning",
       "artist": "Djo",
       "songYt": "Kf5pXDhx5Vc",
       "videoYt": "2tEQK1KrkoM"
+    },
+    {
+      "rank": 51,
+      "song": "Dreams",
+      "artist": "Fleetwood Mac",
+      "songYt": "swJOIjjW69U",
+      "videoYt": "Y3ywicffOj4"
+    },
+    {
+      "rank": 52,
+      "song": "Cleveland!",
+      "artist": "Taylor Swift",
+      "songYt": "G-C9t4MLrbA",
+      "videoYt": "jfVVXYTZykw"
+    },
+    {
+      "rank": 53,
+      "song": "Save Your Tears",
+      "artist": "The Weeknd & Ariana Grande",
+      "songYt": "lS9Kgp6PsWY",
+      "videoYt": "LIIDh-qI9oI"
     },
     {
       "rank": 54,
@@ -386,549 +386,549 @@
     },
     {
       "rank": 55,
-      "song": "Midnight Sun",
-      "artist": "Zara Larsson",
-      "songYt": "sGgMHiRiklo",
-      "videoYt": "uvY8fdgezLQ"
-    },
-    {
-      "rank": 56,
-      "song": "Been By Now",
-      "artist": "Morgan Wallen",
-      "songYt": "HOqxmOXrZnY",
-      "videoYt": "krRYW-kwstk"
-    },
-    {
-      "rank": 57,
-      "song": "Save Your Tears",
-      "artist": "The Weeknd & Ariana Grande",
-      "songYt": "lS9Kgp6PsWY",
-      "videoYt": "LIIDh-qI9oI"
-    },
-    {
-      "rank": 58,
       "song": "Die On This Hill",
       "artist": "Sienna Spiro",
       "songYt": "w_uqjwAovb0",
-      "videoYt": "d2-dpM0crY0"
+      "videoYt": "B452TVVco2Q"
     },
     {
-      "rank": 59,
-      "song": "DTMF",
-      "artist": "Bad Bunny",
-      "songYt": "TiebZllW8As",
-      "videoYt": "7f6SxWMOpdU"
-    },
-    {
-      "rank": 60,
-      "song": "Risk It All",
-      "artist": "Bruno Mars",
-      "songYt": "BF2_ipR1OI0",
-      "videoYt": "lY5V4hSLWY8"
-    },
-    {
-      "rank": 61,
-      "song": "Lush Life",
-      "artist": "Zara Larsson",
-      "songYt": "RG-D4bcg54s",
-      "videoYt": "tD4HCZe-tew"
-    },
-    {
-      "rank": 62,
-      "song": "Sunflower (Spider-Man: Into The Spider-Verse)",
-      "artist": "Post Malone & Swae Lee",
-      "songYt": "r7Rn4ryE_w8",
-      "videoYt": "ApXoWvfEYVU"
-    },
-    {
-      "rank": 63,
-      "song": "Yellow",
-      "artist": "Coldplay",
-      "songYt": "9qnqYL0eNNI",
-      "videoYt": "yKNxeF4KMsY"
-    },
-    {
-      "rank": 64,
-      "song": "Birds Of A Feather",
-      "artist": "Billie Eilish",
-      "songYt": "WKZO-CWeOVA",
-      "videoYt": "V9PVRfjEBTI"
-    },
-    {
-      "rank": 65,
-      "song": "Beat It",
-      "artist": "Michael Jackson",
-      "songYt": "kOn-HdEg6AQ",
-      "videoYt": "oRdxUFDoQe0"
-    },
-    {
-      "rank": 66,
-      "song": "Lose Control",
-      "artist": "Teddy Swims",
-      "songYt": "AeedWEyMYYo",
-      "videoYt": "GZ3zL7kT6_c"
-    },
-    {
-      "rank": 67,
-      "song": "Sailor Song",
-      "artist": "Gigi Perez",
-      "songYt": "wPY6dOC-MDA",
-      "videoYt": "1lrFsXkT_rM"
-    },
-    {
-      "rank": 68,
-      "song": "In The End",
-      "artist": "Linkin Park",
-      "songYt": "BLZWkjBXfN8",
-      "videoYt": "eVTXPUF4Oz4"
-    },
-    {
-      "rank": 69,
-      "song": "Be Her",
-      "artist": "Ella Langley",
-      "songYt": "2xklUpzCXcQ",
-      "videoYt": "Dg47eNL_Usw"
-    },
-    {
-      "rank": 70,
+      "rank": 56,
       "song": "Raindance",
       "artist": "Dave & Tems",
       "songYt": "1qmrq6I_jHI",
       "videoYt": "SOJpE1KMUbo"
     },
     {
-      "rank": 71,
-      "song": "Treat You Better",
-      "artist": "Shawn Mendes",
-      "songYt": "qSay_8xzijg",
-      "videoYt": "lY2yjAdbvdQ"
+      "rank": 57,
+      "song": "Been By Now",
+      "artist": "Morgan Wallen",
+      "songYt": "HOqxmOXrZnY",
+      "videoYt": "krRYW-kwstk"
     },
     {
-      "rank": 72,
-      "song": "The Night We Met",
-      "artist": "Lord Huron",
-      "songYt": "90DKXLbzLto",
-      "videoYt": "wGF7PswOENQ"
+      "rank": 58,
+      "song": "Sign Of The Times",
+      "artist": "Harry Styles",
+      "songYt": "oHVVoe2Vj8s",
+      "videoYt": "qN4ooNx77u0"
     },
     {
-      "rank": 73,
-      "song": "Bloodstream",
-      "artist": "Alyssa Grace",
-      "songYt": "CLSuAhT71yU",
-      "videoYt": "FOJ4A4wixDg"
+      "rank": 59,
+      "song": "Lose Control",
+      "artist": "Teddy Swims",
+      "songYt": "AeedWEyMYYo",
+      "videoYt": "9mj9uuujpmw"
     },
     {
-      "rank": 74,
-      "song": "Purple Rain",
-      "artist": "Prince And The Revolution",
-      "songYt": "347vCib_lMs",
-      "videoYt": "bm03wqLY3Nc"
+      "rank": 60,
+      "song": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "songYt": "sGgMHiRiklo",
+      "videoYt": "uvY8fdgezLQ"
     },
     {
-      "rank": 75,
-      "song": "I Knew It, I Knew You",
-      "artist": "Taylor Swift",
-      "songYt": "SzJXikN_4wA",
-      "videoYt": "hDU4GB1PTxc"
+      "rank": 61,
+      "song": "Storm II",
+      "artist": "GENER8ION & Yung Lean",
+      "songYt": "yuIB3jmC_0M",
+      "videoYt": "x6_mbnsh6VU"
     },
     {
-      "rank": 76,
+      "rank": 62,
+      "song": "Last Thing You Need",
+      "artist": "Morgan Wallen",
+      "songYt": "v7yYmRGQaRk",
+      "videoYt": "9leAwpph-xs"
+    },
+    {
+      "rank": 63,
+      "song": "Risk It All",
+      "artist": "Bruno Mars",
+      "songYt": "BF2_ipR1OI0",
+      "videoYt": "lY5V4hSLWY8"
+    },
+    {
+      "rank": 64,
+      "song": "Beat It",
+      "artist": "Michael Jackson",
+      "songYt": "WlTlUseVt7E",
+      "videoYt": "oRdxUFDoQe0"
+    },
+    {
+      "rank": 65,
       "song": "Sure Thing",
       "artist": "Miguel",
       "songYt": "esKJ8BbauGk",
       "videoYt": "q4GJVOMjCC4"
     },
     {
-      "rank": 77,
-      "song": "Locked Out Of Heaven",
-      "artist": "Bruno Mars",
-      "songYt": "zuaBRqUBhyw",
-      "videoYt": "e-fA-gBCkj0"
+      "rank": 66,
+      "song": "Birds Of A Feather",
+      "artist": "Billie Eilish",
+      "songYt": "WKZO-CWeOVA",
+      "videoYt": "V9PVRfjEBTI"
     },
     {
-      "rank": 78,
-      "song": "Oh Yeah?",
-      "artist": "Steve Lacy",
-      "songYt": "2zPGWGqdfJ8",
-      "videoYt": "ukELxwXvEGw"
-    },
-    {
-      "rank": 79,
-      "song": "Orbiter",
-      "artist": "Noah Kahan",
-      "songYt": "of6KPs4PTN0",
-      "videoYt": "OFcKm-5jSQE"
-    },
-    {
-      "rank": 80,
-      "song": "No One Noticed",
-      "artist": "The Marias",
-      "songYt": "oodQMZLjoBU",
-      "videoYt": "Qn8F_u0vBNI"
-    },
-    {
-      "rank": 81,
-      "song": "Viva La Vida",
-      "artist": "Coldplay",
-      "songYt": "ALsvdSA9tOU",
-      "videoYt": "dvgZkm1xWPE"
-    },
-    {
-      "rank": 82,
+      "rank": 67,
       "song": "Just Give Me A Reason",
       "artist": "P!nk Featuring Nate Ruess",
       "songYt": "a1pWN2ixeVY",
       "videoYt": "eCi3lo1JaQI"
     },
     {
-      "rank": 83,
-      "song": "Riptide",
-      "artist": "Vance Joy",
-      "songYt": "En_6WWOWh8E",
-      "videoYt": "uJ_1HMAGb4k"
+      "rank": 68,
+      "song": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO",
+      "songYt": "i34pFNr42mc",
+      "videoYt": "NauRqgg9HbE"
     },
     {
-      "rank": 84,
-      "song": "Don't Stop Believin'",
-      "artist": "Journey",
-      "songYt": "mM3Vmn4pdog",
-      "videoYt": "VcjzHMhBtf0"
+      "rank": 69,
+      "song": "Classic",
+      "artist": "Drake",
+      "songYt": "yqn4Yyux7_Y",
+      "videoYt": "mCNuYHwje2o"
     },
     {
-      "rank": 85,
-      "song": "Smells Like Teen Spirit",
-      "artist": "Nirvana",
-      "songYt": "7TDeBi34OtE",
-      "videoYt": "hTWKbfoikeg"
+      "rank": 70,
+      "song": "Lush Life",
+      "artist": "Zara Larsson",
+      "songYt": "RG-D4bcg54s",
+      "videoYt": "tD4HCZe-tew"
     },
     {
-      "rank": 86,
-      "song": "APT.",
-      "artist": "ROSE & Bruno Mars",
-      "songYt": "DiTd771WumE",
-      "videoYt": "ekr2nIex040"
+      "rank": 71,
+      "song": "DTMF",
+      "artist": "Bad Bunny",
+      "songYt": "TiebZllW8As",
+      "videoYt": "7f6SxWMOpdU"
     },
     {
-      "rank": 87,
-      "song": "Can't Hold Us",
-      "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
-      "songYt": "96L5sV7rqX0",
-      "videoYt": "2zNSgSzhBfM"
+      "rank": 72,
+      "song": "Yellow",
+      "artist": "Coldplay",
+      "songYt": "9qnqYL0eNNI",
+      "videoYt": "yKNxeF4KMsY"
     },
     {
-      "rank": 88,
-      "song": "Honeybee",
-      "artist": "Olivia Rodrigo",
-      "songYt": "XezOkkUM--w",
-      "videoYt": "60rlboK94mE"
+      "rank": 73,
+      "song": "Be Her",
+      "artist": "Ella Langley",
+      "songYt": "2xklUpzCXcQ",
+      "videoYt": "Dg47eNL_Usw"
     },
     {
-      "rank": 89,
-      "song": "On The Floor",
-      "artist": "Jennifer Lopez Featuring Pitbull",
-      "songYt": "gDRL47NzG5o",
-      "videoYt": "t4H_Zoh7G5A"
+      "rank": 74,
+      "song": "In The End",
+      "artist": "Linkin Park",
+      "songYt": "BLZWkjBXfN8",
+      "videoYt": "eVTXPUF4Oz4"
     },
     {
-      "rank": 90,
-      "song": "Bring Me To Life",
-      "artist": "Evanescence Featuring Paul McCoy",
-      "songYt": "Yhwal9i1uyw",
-      "videoYt": "3YxaaGgTQYM"
-    },
-    {
-      "rank": 91,
-      "song": "Shape Of You",
-      "artist": "Ed Sheeran",
-      "songYt": "xTvyyoF_LZY",
-      "videoYt": "JGwWNGJdvx8"
-    },
-    {
-      "rank": 92,
+      "rank": 75,
       "song": "Mi Chico",
       "artist": "DJ Goja, Jason Derulo & Melody",
       "songYt": "3Eb2LTRoHVQ",
       "videoYt": "6Db-cEgbmC4"
     },
     {
-      "rank": 93,
+      "rank": 76,
+      "song": "Sailor Song",
+      "artist": "Gigi Perez",
+      "songYt": "wPY6dOC-MDA",
+      "videoYt": "1lrFsXkT_rM"
+    },
+    {
+      "rank": 77,
+      "song": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "songYt": "qSay_8xzijg",
+      "videoYt": "lY2yjAdbvdQ"
+    },
+    {
+      "rank": 78,
+      "song": "Bloodstream",
+      "artist": "Alyssa Grace",
+      "songYt": "CLSuAhT71yU",
+      "videoYt": "FOJ4A4wixDg"
+    },
+    {
+      "rank": 79,
+      "song": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "artist": "Post Malone & Swae Lee",
+      "songYt": "r7Rn4ryE_w8",
+      "videoYt": "BjaOjy5q84g"
+    },
+    {
+      "rank": 80,
+      "song": "Opalite",
+      "artist": "Taylor Swift",
+      "songYt": "JCcUifiu3UU",
+      "videoYt": "1FVF-9KQiPo"
+    },
+    {
+      "rank": 81,
+      "song": "The Night We Met",
+      "artist": "Lord Huron",
+      "songYt": "90DKXLbzLto",
+      "videoYt": "wGF7PswOENQ"
+    },
+    {
+      "rank": 82,
+      "song": "Purple Rain",
+      "artist": "Prince And The Revolution",
+      "songYt": "347vCib_lMs",
+      "videoYt": "WAG_0MjW0z0"
+    },
+    {
+      "rank": 83,
+      "song": "APT.",
+      "artist": "ROSE & Bruno Mars",
+      "songYt": "DiTd771WumE",
+      "videoYt": "ekr2nIex040"
+    },
+    {
+      "rank": 84,
+      "song": "Riptide",
+      "artist": "Vance Joy",
+      "songYt": "En_6WWOWh8E",
+      "videoYt": "uJ_1HMAGb4k"
+    },
+    {
+      "rank": 85,
+      "song": "Orbiter",
+      "artist": "Noah Kahan",
+      "songYt": "of6KPs4PTN0",
+      "videoYt": "OFcKm-5jSQE"
+    },
+    {
+      "rank": 86,
+      "song": "Don't Stop Believin'",
+      "artist": "Journey",
+      "songYt": "mM3Vmn4pdog",
+      "videoYt": "VcjzHMhBtf0"
+    },
+    {
+      "rank": 87,
+      "song": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "songYt": "7TDeBi34OtE",
+      "videoYt": "hTWKbfoikeg"
+    },
+    {
+      "rank": 88,
+      "song": "Die For You",
+      "artist": "The Weeknd & Ariana Grande",
+      "songYt": "AySMGpXQ1Mo",
+      "videoYt": "s37x2VSZrLw"
+    },
+    {
+      "rank": 89,
+      "song": "Oh Yeah?",
+      "artist": "Steve Lacy",
+      "songYt": "2zPGWGqdfJ8",
+      "videoYt": "VF-FGf_ZZiI"
+    },
+    {
+      "rank": 90,
       "song": "Blinding Lights",
       "artist": "The Weeknd",
       "songYt": "J7p4bzqLvCw",
       "videoYt": "4NRXx6U8ABQ"
     },
     {
-      "rank": 94,
+      "rank": 91,
       "song": "Starboy",
       "artist": "The Weeknd Featuring Daft Punk",
       "songYt": "3_g2un5M350",
       "videoYt": "34Na4j8AVgA"
     },
     {
+      "rank": 92,
+      "song": "Babydoll",
+      "artist": "Jamie Miller",
+      "songYt": "G_FNGJeAWlk",
+      "videoYt": "8g25GeJgxgs"
+    },
+    {
+      "rank": 93,
+      "song": "Olivia La Flaka",
+      "artist": "Natanael Cano , Tito Double P , Victor Mendivil & Ovi",
+      "songYt": "1KmNd-5Jq34",
+      "videoYt": "MYFFA242azM"
+    },
+    {
+      "rank": 94,
+      "song": "Wildflower",
+      "artist": "Billie Eilish",
+      "songYt": "O1PkZaFy61Y",
+      "videoYt": "luvdZZsKrro"
+    },
+    {
       "rank": 95,
-      "song": "Stateside",
-      "artist": "PinkPantheress With Zara Larsson",
-      "songYt": "iHsObIWkM-s",
-      "videoYt": "lIxQe1R5hs0"
+      "song": "On The Floor",
+      "artist": "Jennifer Lopez Featuring Pitbull",
+      "songYt": "9lybsz-7TFM",
+      "videoYt": "t4H_Zoh7G5A"
     },
     {
       "rank": 96,
+      "song": "Bring Me To Life",
+      "artist": "Evanescence Featuring Paul McCoy",
+      "songYt": "Yhwal9i1uyw",
+      "videoYt": "3YxaaGgTQYM"
+    },
+    {
+      "rank": 97,
       "song": "My Body Isn't Ready",
       "artist": "sombr",
       "songYt": "eXw2R_CTlU8",
       "videoYt": "ofywN3NgGqY"
     },
     {
-      "rank": 97,
-      "song": "As It Was",
-      "artist": "Harry Styles",
-      "songYt": "nujn6wbr-e8",
-      "videoYt": "H5v3kku4y6Q"
-    },
-    {
       "rank": 98,
-      "song": "Te Estoy Correteando",
-      "artist": "LATIN MAFIA & Fred again..",
-      "songYt": "j3POFK8nR5w",
-      "videoYt": "-2t3FsbPbwI"
-    },
-    {
-      "rank": 99,
-      "song": "Don't Stop The Music",
-      "artist": "Rihanna",
-      "songYt": "NengL7n9tR8",
-      "videoYt": "yd8jh9QYfEs"
-    },
-    {
-      "rank": 100,
-      "song": "Baile Inolvidable",
-      "artist": "Bad Bunny",
-      "songYt": "JseJETvMtHY",
-      "videoYt": "a1Femq4NPxs"
-    },
-    {
-      "rank": 101,
-      "song": "Wildflower",
-      "artist": "Billie Eilish",
-      "songYt": "O1PkZaFy61Y",
-      "videoYt": "1rL1EHELPAk"
-    },
-    {
-      "rank": 102,
-      "song": "Take On Me",
-      "artist": "a-ha",
-      "songYt": "HzdD8kbDzZA",
-      "videoYt": "djV11Xbc914"
-    },
-    {
-      "rank": 103,
-      "song": "Homewrecker",
-      "artist": "sombr",
-      "songYt": "E9onENVBmKY",
-      "videoYt": "mQezde_qeXw"
-    },
-    {
-      "rank": 104,
-      "song": "505",
-      "artist": "Arctic Monkeys",
-      "songYt": "KfEEm4Zx-EU",
-      "videoYt": "ma9I9VBKPiw"
-    },
-    {
-      "rank": 105,
-      "song": "Die For You",
-      "artist": "The Weeknd & Ariana Grande",
-      "songYt": "AySMGpXQ1Mo",
-      "videoYt": "uPD0QOGTmMI"
-    },
-    {
-      "rank": 106,
-      "song": "Daisies",
-      "artist": "Justin Bieber",
-      "songYt": "s5oSscNIyIs",
-      "videoYt": "KKnwYq-UlQM"
-    },
-    {
-      "rank": 107,
-      "song": "EOO",
-      "artist": "Bad Bunny",
-      "songYt": "JYekRpqL4O8",
-      "videoYt": "Cr8K88UcO0s"
-    },
-    {
-      "rank": 108,
-      "song": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen",
-      "songYt": "OTBY7wo4LuE",
-      "videoYt": "A3G_7XgK2B4"
-    },
-    {
-      "rank": 109,
-      "song": "I Just Might",
-      "artist": "Bruno Mars",
-      "songYt": "8_C6lXoGB5Y",
-      "videoYt": "mrV8kK5t0V8"
-    },
-    {
-      "rank": 110,
-      "song": "Numb",
-      "artist": "Linkin Park",
-      "songYt": "Q7cQU86CDB0",
-      "videoYt": "kXYiU_JCYtU"
-    },
-    {
-      "rank": 111,
-      "song": "One Dance",
-      "artist": "Drake Featuring Wizkid & Kyla",
-      "songYt": "sbLqX7cUKoM",
-      "videoYt": "vqW18C4plZ8"
-    },
-    {
-      "rank": 112,
       "song": "One Of The Girls",
       "artist": "The Weeknd , JENNIE & Lily-Rose Depp",
       "songYt": "HgLfYfJtc8M",
       "videoYt": "Mx92lTYxrJQ"
     },
     {
-      "rank": 113,
-      "song": "Everybody Wants To Rule The World",
-      "artist": "Tears for Fears",
-      "songYt": "U4zA0xnBEJU",
-      "videoYt": "aGCdLKXNF3w"
+      "rank": 99,
+      "song": "Locked Out Of Heaven",
+      "artist": "Bruno Mars",
+      "songYt": "zuaBRqUBhyw",
+      "videoYt": "e-fA-gBCkj0"
     },
     {
-      "rank": 114,
+      "rank": 100,
+      "song": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "songYt": "xTvyyoF_LZY",
+      "videoYt": "JGwWNGJdvx8"
+    },
+    {
+      "rank": 101,
+      "song": "That's So True",
+      "artist": "Gracie Abrams",
+      "songYt": "AOz9V0NhJe8",
+      "videoYt": "QWrafQg2zNY"
+    },
+    {
+      "rank": 102,
+      "song": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+      "songYt": "96L5sV7rqX0",
+      "videoYt": "2zNSgSzhBfM"
+    },
+    {
+      "rank": 103,
+      "song": "505",
+      "artist": "Arctic Monkeys",
+      "songYt": "KfEEm4Zx-EU",
+      "videoYt": "1tWFk8ojF4M"
+    },
+    {
+      "rank": 104,
+      "song": "Honeybee",
+      "artist": "Olivia Rodrigo",
+      "songYt": "XezOkkUM--w",
+      "videoYt": "60rlboK94mE"
+    },
+    {
+      "rank": 105,
+      "song": "Take On Me",
+      "artist": "a-ha",
+      "songYt": "HzdD8kbDzZA",
+      "videoYt": "djV11Xbc914"
+    },
+    {
+      "rank": 106,
+      "song": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "songYt": "NengL7n9tR8",
+      "videoYt": "yd8jh9QYfEs"
+    },
+    {
+      "rank": 107,
       "song": "No Scrubs",
       "artist": "TLC",
       "songYt": "q3MkrF5fPew",
       "videoYt": "FrLequ6dUdM"
     },
     {
-      "rank": 115,
-      "song": "Babydoll",
-      "artist": "Jamie Miller",
-      "songYt": "7MAs5b7EJyc",
-      "videoYt": "8g25GeJgxgs"
+      "rank": 108,
+      "song": "Viva La Vida",
+      "artist": "Coldplay",
+      "songYt": "ALsvdSA9tOU",
+      "videoYt": "dvgZkm1xWPE"
     },
     {
-      "rank": 116,
-      "song": "Fade Into You",
-      "artist": "Mazzy Star",
-      "songYt": "avv2IIdDnnk",
-      "videoYt": "ImKY6TZEyrI"
+      "rank": 109,
+      "song": "No One Noticed",
+      "artist": "The Marias",
+      "songYt": "oodQMZLjoBU",
+      "videoYt": "Qn8F_u0vBNI"
     },
     {
-      "rank": 117,
-      "song": "SaWaDiKa",
-      "artist": "LISA",
-      "songYt": "z71d3cWLwsw",
-      "videoYt": "FyS5dAywkEo"
+      "rank": 110,
+      "song": "Stateside",
+      "artist": "PinkPantheress With Zara Larsson",
+      "songYt": "iHsObIWkM-s",
+      "videoYt": "lIxQe1R5hs0"
     },
     {
-      "rank": 118,
-      "song": "Talking Body",
-      "artist": "Tove Lo",
-      "songYt": "EDcmA03o9OE",
-      "videoYt": "AzRyxGBGiAE"
+      "rank": 111,
+      "song": "As It Was",
+      "artist": "Harry Styles",
+      "songYt": "nujn6wbr-e8",
+      "videoYt": "H5v3kku4y6Q"
     },
     {
-      "rank": 119,
-      "song": "Counting Stars",
-      "artist": "OneRepublic",
-      "songYt": "_GWKkqNoyEA",
-      "videoYt": "hT_nvWreIhg"
+      "rank": 112,
+      "song": "I Just Might",
+      "artist": "Bruno Mars",
+      "songYt": "8_C6lXoGB5Y",
+      "videoYt": "mrV8kK5t0V8"
     },
     {
-      "rank": 120,
-      "song": "12 To 12",
-      "artist": "sombr",
-      "songYt": "Lylp6w7LpHc",
-      "videoYt": "cZgUiR31m-Y"
-    },
-    {
-      "rank": 121,
-      "song": "Hotel California",
-      "artist": "Eagles",
-      "songYt": "BciS5krYL80",
-      "videoYt": "09839DpTctU"
-    },
-    {
-      "rank": 122,
+      "rank": 113,
       "song": "Just The Way You Are",
       "artist": "Bruno Mars",
       "songYt": "GnUW4AF1LZo",
       "videoYt": "LjhCEhWiKXk"
     },
     {
-      "rank": 123,
+      "rank": 114,
+      "song": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "songYt": "SzJXikN_4wA",
+      "videoYt": "hDU4GB1PTxc"
+    },
+    {
+      "rank": 115,
+      "song": "Baile Inolvidable",
+      "artist": "Bad Bunny",
+      "songYt": "JseJETvMtHY",
+      "videoYt": "a1Femq4NPxs"
+    },
+    {
+      "rank": 116,
+      "song": "Numb",
+      "artist": "Linkin Park",
+      "songYt": "Q7cQU86CDB0",
+      "videoYt": "kXYiU_JCYtU"
+    },
+    {
+      "rank": 117,
+      "song": "Homewrecker",
+      "artist": "sombr",
+      "songYt": "E9onENVBmKY",
+      "videoYt": "mQezde_qeXw"
+    },
+    {
+      "rank": 118,
+      "song": "One Dance",
+      "artist": "Drake Featuring Wizkid & Kyla",
+      "songYt": "3E_gXM8W_oE",
+      "videoYt": "vqW18C4plZ8"
+    },
+    {
+      "rank": 119,
       "song": "Sweet Child O' Mine",
       "artist": "Guns N' Roses",
       "songYt": "oMfMUfgjiLg",
       "videoYt": "1w7OgIMMRc4"
     },
     {
-      "rank": 124,
-      "song": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "songYt": "kIft-LUHHVA",
-      "videoYt": "eVli-tstM5E"
+      "rank": 120,
+      "song": "Hootie Frutti",
+      "artist": "KATSEYE",
+      "songYt": "HY397w59MT4",
+      "videoYt": "is8UDe2PhKQ"
     },
     {
-      "rank": 125,
+      "rank": 121,
+      "song": "EOO",
+      "artist": "Bad Bunny",
+      "songYt": "JYekRpqL4O8",
+      "videoYt": "Cr8K88UcO0s"
+    },
+    {
+      "rank": 122,
+      "song": "Fade Into You",
+      "artist": "Mazzy Star",
+      "songYt": "avv2IIdDnnk",
+      "videoYt": "ImKY6TZEyrI"
+    },
+    {
+      "rank": 123,
       "song": "Si Antes Te Hubiera Conocido",
       "artist": "Karol G",
       "songYt": "mi-JD4jGVUQ",
       "videoYt": "MgsdDfdGdHc"
     },
     {
+      "rank": 124,
+      "song": "Counting Stars",
+      "artist": "OneRepublic",
+      "songYt": "_GWKkqNoyEA",
+      "videoYt": "hT_nvWreIhg"
+    },
+    {
+      "rank": 125,
+      "song": "Hotel California",
+      "artist": "Eagles",
+      "songYt": "BciS5krYL80",
+      "videoYt": "09839DpTctU"
+    },
+    {
       "rank": 126,
+      "song": "12 To 12",
+      "artist": "sombr",
+      "songYt": "Lylp6w7LpHc",
+      "videoYt": "cZgUiR31m-Y"
+    },
+    {
+      "rank": 127,
+      "song": "We Fell In Love In October",
+      "artist": "girl in red",
+      "songYt": "FJX0JPXD2nM",
+      "videoYt": "iggmiF7DNoM"
+    },
+    {
+      "rank": 128,
+      "song": "We Are The People",
+      "artist": "Empire of the Sun",
+      "songYt": "r02mYOlfcCw",
+      "videoYt": "hN5X4kGhAtU"
+    },
+    {
+      "rank": 129,
+      "song": "Daisies",
+      "artist": "Justin Bieber",
+      "songYt": "s5oSscNIyIs",
+      "videoYt": "4WcD2ncHMVs"
+    },
+    {
+      "rank": 130,
+      "song": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "songYt": "kIft-LUHHVA",
+      "videoYt": "eVli-tstM5E"
+    },
+    {
+      "rank": 131,
+      "song": "Cuando No Era Cantante (Remix)",
+      "artist": "Bogueto, Fuerza Regida , Anuel AA & Yung Beef",
+      "songYt": "6sE5F9Y8f1o",
+      "videoYt": "dhHHV89hTug"
+    },
+    {
+      "rank": 132,
       "song": "Have You Ever Seen The Rain",
       "artist": "Creedence Clearwater Revival",
       "songYt": "Xwy-3aI435o",
       "videoYt": "u1V8YRJnr4Q"
-    },
-    {
-      "rank": 127,
-      "song": "Do I Wanna Know?",
-      "artist": "Arctic Monkeys",
-      "songYt": "pqrUQrAcfo4",
-      "videoYt": "bpOSxM0rNPM"
-    },
-    {
-      "rank": 128,
-      "song": "Perfect",
-      "artist": "Ed Sheeran",
-      "songYt": "ORrFJ63nlcA",
-      "videoYt": "2Vv-BfVoq4g"
-    },
-    {
-      "rank": 129,
-      "song": "Summertime Sadness",
-      "artist": "Lana Del Rey vs. Cedric Gervais",
-      "songYt": "jgHYgDFD0xo",
-      "videoYt": "5gqEJT1lxgk"
-    },
-    {
-      "rank": 130,
-      "song": "Superestrella",
-      "artist": "Aitana",
-      "songYt": "ElvzE2cPclc",
-      "videoYt": "llZJ-9e4Yeo"
-    },
-    {
-      "rank": 131,
-      "song": "Manchild",
-      "artist": "Sabrina Carpenter",
-      "songYt": "DntZ3-yCaFs",
-      "videoYt": "aSugSGCC12I"
-    },
-    {
-      "rank": 132,
-      "song": "Zombie",
-      "artist": "The Cranberries",
-      "songYt": "lSDfCdycdvk",
-      "videoYt": "6Ejga4kJUts"
     },
     {
       "rank": 133,
@@ -939,472 +939,472 @@
     },
     {
       "rank": 134,
-      "song": "Into You",
-      "artist": "Ariana Grande",
-      "songYt": "Faq-ODnfIPw",
-      "videoYt": "1ekZEVeXwek"
+      "song": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "songYt": "pqrUQrAcfo4",
+      "videoYt": "bpOSxM0rNPM"
     },
     {
       "rank": 135,
-      "song": "Somewhere Only We Know",
-      "artist": "Keane",
-      "songYt": "q5sVys7jk2I",
-      "videoYt": "Oextk-If8HQ"
+      "song": "Everybody Wants To Rule The World",
+      "artist": "Tears for Fears",
+      "songYt": "U4zA0xnBEJU",
+      "videoYt": "aGCdLKXNF3w"
     },
     {
       "rank": 136,
-      "song": "Umbrella",
-      "artist": "Rihanna Featuring Jay-Z",
-      "songYt": "xXD5tltX9Pg",
-      "videoYt": "CvBfHwUxHIk"
+      "song": "Thriller",
+      "artist": "Michael Jackson",
+      "songYt": "Z85lxckrtzg",
+      "videoYt": "sOnqjkJTMaA"
     },
     {
       "rank": 137,
-      "song": "September",
-      "artist": "Earth, Wind & Fire",
-      "songYt": "B2mmDEv0OEk",
-      "videoYt": "Gs069dndIYk"
+      "song": "Talking Body",
+      "artist": "Tove Lo",
+      "songYt": "EDcmA03o9OE",
+      "videoYt": "AzRyxGBGiAE"
     },
     {
       "rank": 138,
-      "song": "There's Nothing Holdin' Me Back",
-      "artist": "Shawn Mendes",
-      "songYt": "Ztdc7TcPdAA",
-      "videoYt": "dT2owtxkU8k"
+      "song": "Zombie",
+      "artist": "The Cranberries",
+      "songYt": "lSDfCdycdvk",
+      "videoYt": "6Ejga4kJUts"
     },
     {
       "rank": 139,
-      "song": "I Wanna Be Yours",
-      "artist": "Arctic Monkeys",
-      "songYt": "nyuo9-OjNNg",
-      "videoYt": "3PyoxMSEHYI"
+      "song": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen",
+      "songYt": "OTBY7wo4LuE",
+      "videoYt": "A3G_7XgK2B4"
     },
     {
       "rank": 140,
-      "song": "We Found Love",
-      "artist": "Rihanna Featuring Calvin Harris",
-      "songYt": "UUpuyzPJeWA",
-      "videoYt": "tg00YEETFzg"
+      "song": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "songYt": "nyuo9-OjNNg",
+      "videoYt": "qN7gSMPQFss"
     },
     {
       "rank": 141,
-      "song": "We Are The People",
-      "artist": "Empire of the Sun",
-      "songYt": "r02mYOlfcCw",
-      "videoYt": "hN5X4kGhAtU"
-    },
-    {
-      "rank": 142,
-      "song": "Good Luck, Babe!",
-      "artist": "Chappell Roan",
-      "songYt": "VZ-oGLluGAc",
-      "videoYt": "6ENzV125lWc"
-    },
-    {
-      "rank": 143,
-      "song": "Nuevayol",
-      "artist": "Bad Bunny",
-      "songYt": "WdSGEvDGZAo",
-      "videoYt": "KU5V5WZVcVE"
-    },
-    {
-      "rank": 144,
-      "song": "That's So True",
-      "artist": "Gracie Abrams",
-      "songYt": "AOz9V0NhJe8",
-      "videoYt": "kxbFUjgjAxE"
-    },
-    {
-      "rank": 145,
-      "song": "Kiss It Better",
-      "artist": "Rihanna",
-      "songYt": "Ht2O3xYjJik",
-      "videoYt": "49lY0HqqUVc"
-    },
-    {
-      "rank": 146,
       "song": "Baby",
       "artist": "Justin Bieber Featuring Ludacris",
       "songYt": "GqWYJT-iMTw",
       "videoYt": "kffacxfA7G4"
     },
     {
-      "rank": 147,
-      "song": "Normal",
-      "artist": "BTS",
-      "songYt": "Qye9VHIv6qM",
-      "videoYt": "GEk4jHwfFTA"
-    },
-    {
-      "rank": 148,
+      "rank": 142,
       "song": "Willing And Able",
       "artist": "Noah Kahan",
       "songYt": "lRujFWpXglU",
       "videoYt": "2f4gu97XWFg"
     },
     {
-      "rank": 149,
-      "song": "Maggots For Brains",
-      "artist": "Olivia Rodrigo",
-      "songYt": "-h1ZefBxAek",
-      "videoYt": "tEiN7rkGztA"
+      "rank": 143,
+      "song": "We Found Love",
+      "artist": "Rihanna Featuring Calvin Harris",
+      "songYt": "UUpuyzPJeWA",
+      "videoYt": "tg00YEETFzg"
     },
     {
-      "rank": 150,
-      "song": "Levitating",
-      "artist": "Dua Lipa",
-      "songYt": "OsfAnsMY21M",
-      "videoYt": "TUVcZfQe-Kw"
+      "rank": 144,
+      "song": "Te Estoy Correteando",
+      "artist": "LATIN MAFIA & Fred again..",
+      "songYt": "j3POFK8nR5w",
+      "videoYt": "-2t3FsbPbwI"
     },
     {
-      "rank": 151,
-      "song": "All The Stars",
-      "artist": "Kendrick Lamar & SZA",
-      "songYt": "ju4KQT0wL0I",
-      "videoYt": "JQbjS0_ZfJ0"
+      "rank": 145,
+      "song": "Into You",
+      "artist": "Ariana Grande",
+      "songYt": "Faq-ODnfIPw",
+      "videoYt": "1ekZEVeXwek"
     },
     {
-      "rank": 152,
-      "song": "Africa",
-      "artist": "Toto",
-      "songYt": "QAo_Ycocl1E",
-      "videoYt": "FTQbiNvZqaY"
+      "rank": 146,
+      "song": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "songYt": "DntZ3-yCaFs",
+      "videoYt": "aSugSGCC12I"
     },
     {
-      "rank": 153,
-      "song": "Storm II",
-      "artist": "GENER8ION & Yung Lean",
-      "songYt": "yuIB3jmC_0M",
-      "videoYt": "x6_mbnsh6VU"
+      "rank": 147,
+      "song": "SaWaDiKa",
+      "artist": "LISA",
+      "songYt": "z71d3cWLwsw",
+      "videoYt": "FyS5dAywkEo"
     },
     {
-      "rank": 154,
-      "song": "Pure",
-      "artist": "Sienna Spiro",
-      "songYt": "_P_NuPjHrvQ",
-      "videoYt": "jaCxgxTScjc"
-    },
-    {
-      "rank": 155,
-      "song": "Another Love",
-      "artist": "Tom Odell",
-      "songYt": "YRkWZO4iLYk",
-      "videoYt": "MwpMEbgC7DA"
-    },
-    {
-      "rank": 156,
-      "song": "Linger",
-      "artist": "The Cranberries",
-      "songYt": "PXDlU0YDQ6U",
-      "videoYt": "G6Kspj3OO0s"
-    },
-    {
-      "rank": 157,
-      "song": "Wicked Game",
-      "artist": "Chris Isaak",
-      "songYt": "rslMMY64BVg",
-      "videoYt": "jd-qI62gNJM"
-    },
-    {
-      "rank": 158,
-      "song": "Stick Season",
-      "artist": "Noah Kahan",
-      "songYt": "gLA6VyT4QOw",
-      "videoYt": "JKrDdsgXuso"
-    },
-    {
-      "rank": 159,
-      "song": "Apocalypse",
-      "artist": "Cigarettes After Sex",
-      "songYt": "DdI598gKkKw",
-      "videoYt": "UwTqcctD1rw"
-    },
-    {
-      "rank": 160,
-      "song": "Circles",
-      "artist": "Post Malone",
-      "songYt": "4EQkYVtE-28",
-      "videoYt": "wXhTHyIgQ_U"
-    },
-    {
-      "rank": 161,
-      "song": "Livin' On A Prayer",
-      "artist": "Bon Jovi",
-      "songYt": "YBdyc1WDlBQ",
-      "videoYt": "lDK9QqIzhwk"
-    },
-    {
-      "rank": 162,
-      "song": "Thunderstruck",
-      "artist": "AC/DC",
-      "songYt": "lhg9bYNLvOg",
-      "videoYt": "v2AC41dglnM"
-    },
-    {
-      "rank": 163,
-      "song": "Give Me Everything",
-      "artist": "Pitbull Featuring Ne-Yo , Afrojack & Nayer",
-      "songYt": "E2lX1ZovtcA",
-      "videoYt": "EPo5wWmKEaI"
-    },
-    {
-      "rank": 164,
-      "song": "Payphone",
-      "artist": "Maroon 5 Featuring Wiz Khalifa",
-      "songYt": "3ssXSY7f3s4",
-      "videoYt": "KRaWnd3LJfs"
-    },
-    {
-      "rank": 165,
-      "song": "Elizabeth Taylor",
-      "artist": "Taylor Swift",
-      "songYt": "JqvoWvbnRDo",
-      "videoYt": "WqbJT_vC0rs"
-    },
-    {
-      "rank": 166,
-      "song": "Your Love",
-      "artist": "The Outfield",
-      "songYt": "W2a8Ng1qM8Q",
-      "videoYt": "4N1iwQxiHrs"
-    },
-    {
-      "rank": 167,
-      "song": "Mirrors",
-      "artist": "Justin Timberlake",
-      "songYt": "59nAgJZ5IoE",
-      "videoYt": "uuZE_IRwLNI"
-    },
-    {
-      "rank": 168,
-      "song": "S&M",
-      "artist": "Rihanna",
-      "songYt": "q_MtePol92o",
-      "videoYt": "KdS6HFQ_LUc"
-    },
-    {
-      "rank": 169,
-      "song": "Poker Face",
-      "artist": "Lady Gaga",
-      "songYt": "oG-4Uvhm4lI",
-      "videoYt": "bESGLojNYSo"
-    },
-    {
-      "rank": 170,
-      "song": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "songYt": "JhCA0y_ya6w",
-      "videoYt": "pa14VNsdSYM"
-    },
-    {
-      "rank": 171,
-      "song": "Hootie Frutti",
-      "artist": "KATSEYE",
-      "songYt": "HY397w59MT4",
-      "videoYt": "is8UDe2PhKQ"
-    },
-    {
-      "rank": 172,
-      "song": "Timeless",
-      "artist": "The Weeknd & Playboi Carti",
-      "songYt": "a4O-abCXsfA",
-      "videoYt": "5EpyN_6dqyk"
-    },
-    {
-      "rank": 173,
+      "rank": 148,
       "song": "Feel Good Inc",
       "artist": "Gorillaz",
       "songYt": "NxxjLD2pmlk",
       "videoYt": "HyHNuVaZJ-k"
     },
     {
-      "rank": 174,
-      "song": "Cheap Thrills",
-      "artist": "Sia Featuring Sean Paul",
-      "songYt": "HbzZPpWr4MI",
-      "videoYt": "31crA53Dgu0"
+      "rank": 149,
+      "song": "Perfect",
+      "artist": "Ed Sheeran",
+      "songYt": "ORrFJ63nlcA",
+      "videoYt": "2Vv-BfVoq4g"
     },
     {
-      "rank": 175,
+      "rank": 150,
+      "song": "Mirrors",
+      "artist": "Justin Timberlake",
+      "songYt": "59nAgJZ5IoE",
+      "videoYt": "uuZE_IRwLNI"
+    },
+    {
+      "rank": 151,
+      "song": "Summertime Sadness",
+      "artist": "Lana Del Rey vs. Cedric Gervais",
+      "songYt": "jgHYgDFD0xo",
+      "videoYt": "5gqEJT1lxgk"
+    },
+    {
+      "rank": 152,
+      "song": "Levitating",
+      "artist": "Dua Lipa",
+      "songYt": "OsfAnsMY21M",
+      "videoYt": "TUVcZfQe-Kw"
+    },
+    {
+      "rank": 153,
+      "song": "Superestrella",
+      "artist": "Aitana",
+      "songYt": "ElvzE2cPclc",
+      "videoYt": "vz_vU53JvvI"
+    },
+    {
+      "rank": 154,
+      "song": "Linger",
+      "artist": "The Cranberries",
+      "songYt": "PXDlU0YDQ6U",
+      "videoYt": "G6Kspj3OO0s"
+    },
+    {
+      "rank": 155,
+      "song": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "songYt": "JhCA0y_ya6w",
+      "videoYt": "pa14VNsdSYM"
+    },
+    {
+      "rank": 156,
+      "song": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "songYt": "Ztdc7TcPdAA",
+      "videoYt": "dT2owtxkU8k"
+    },
+    {
+      "rank": 157,
+      "song": "Africa",
+      "artist": "Toto",
+      "songYt": "QAo_Ycocl1E",
+      "videoYt": "FTQbiNvZqaY"
+    },
+    {
+      "rank": 158,
+      "song": "Kiss It Better",
+      "artist": "Rihanna",
+      "songYt": "Ht2O3xYjJik",
+      "videoYt": "49lY0HqqUVc"
+    },
+    {
+      "rank": 159,
+      "song": "Your Love",
+      "artist": "The Outfield",
+      "songYt": "W2a8Ng1qM8Q",
+      "videoYt": "4N1iwQxiHrs"
+    },
+    {
+      "rank": 160,
+      "song": "Stick Season",
+      "artist": "Noah Kahan",
+      "songYt": "gLA6VyT4QOw",
+      "videoYt": "JKrDdsgXuso"
+    },
+    {
+      "rank": 161,
+      "song": "Give Me Everything",
+      "artist": "Pitbull Featuring Ne-Yo , Afrojack & Nayer",
+      "songYt": "E2lX1ZovtcA",
+      "videoYt": "r01ZfCEZAt8"
+    },
+    {
+      "rank": 162,
       "song": "Hips Don't Lie",
       "artist": "Shakira Featuring Wyclef Jean",
       "songYt": "nOj6d-HOw2w",
       "videoYt": "DUT5rEU6pqM"
     },
     {
-      "rank": 176,
-      "song": "Danza Kuduro",
-      "artist": "Don Omar & Lucenzo",
-      "songYt": "BbWY-avjDto",
-      "videoYt": "7zp1TbLFPp8"
-    },
-    {
-      "rank": 177,
-      "song": "The Less I Know The Better",
-      "artist": "Tame Impala",
-      "songYt": "PvM79DJ2PmM",
-      "videoYt": "sBzrzS1Ag_g"
-    },
-    {
-      "rank": 178,
-      "song": "The Door",
-      "artist": "Teddy Swims",
-      "songYt": "wgqUhK32n1c",
-      "videoYt": "VSXT4a2kRHA"
-    },
-    {
-      "rank": 179,
-      "song": "Talk To You",
-      "artist": "ANOTR Featuring 54 Ultra",
-      "songYt": "3nxq0f8-VU0",
-      "videoYt": "ajUMhpotf8k"
-    },
-    {
-      "rank": 180,
+      "rank": 163,
       "song": "Enter Sandman",
       "artist": "Metallica",
       "songYt": "CHIWNDAwTqQ",
       "videoYt": "CD-E-LDc384"
     },
     {
-      "rank": 181,
+      "rank": 164,
+      "song": "Pure",
+      "artist": "Sienna Spiro",
+      "songYt": "_P_NuPjHrvQ",
+      "videoYt": "jaCxgxTScjc"
+    },
+    {
+      "rank": 165,
       "song": "Closer",
       "artist": "The Chainsmokers Featuring Halsey",
       "songYt": "r7zTKRonHXM",
       "videoYt": "PT2_F-1esPk"
     },
     {
-      "rank": 182,
-      "song": "Everlong",
-      "artist": "Foo Fighters",
-      "songYt": "AxuTd9rwEHQ",
-      "videoYt": "eBG7P-K-r1Y"
+      "rank": 166,
+      "song": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "songYt": "DdI598gKkKw",
+      "videoYt": "--JuMkludKM"
     },
     {
-      "rank": 183,
-      "song": "How You Remind Me",
-      "artist": "Nickelback",
-      "songYt": "vkvrbbtnp6s",
-      "videoYt": "Aiay8I5IPB8"
+      "rank": 167,
+      "song": "Payphone",
+      "artist": "Maroon 5 Featuring Wiz Khalifa",
+      "songYt": "3ssXSY7f3s4",
+      "videoYt": "KRaWnd3LJfs"
     },
     {
-      "rank": 184,
-      "song": "De Lejitos",
-      "artist": "Jay Wheeler",
-      "songYt": "dkH6bUnsy1Y",
-      "videoYt": "uJrHwLr8h0U"
+      "rank": 168,
+      "song": "Another Love",
+      "artist": "Tom Odell",
+      "songYt": "YRkWZO4iLYk",
+      "videoYt": "MwpMEbgC7DA"
     },
     {
-      "rank": 185,
-      "song": "Young And Beautiful",
-      "artist": "Lana Del Rey",
-      "songYt": "mjcX-5lKdeg",
-      "videoYt": "o_1aF54DO60"
+      "rank": 169,
+      "song": "Normal",
+      "artist": "BTS",
+      "songYt": "Qye9VHIv6qM",
+      "videoYt": "GEk4jHwfFTA"
     },
     {
-      "rank": 186,
+      "rank": 170,
+      "song": "UNETHICAL",
+      "artist": "Faouzia",
+      "songYt": "JBbSlADtG-g",
+      "videoYt": "I1zqCX3Dvxo"
+    },
+    {
+      "rank": 171,
+      "song": "Somewhere Only We Know",
+      "artist": "Keane",
+      "songYt": "q5sVys7jk2I",
+      "videoYt": "Oextk-If8HQ"
+    },
+    {
+      "rank": 172,
+      "song": "Umbrella",
+      "artist": "Rihanna Featuring Jay-Z",
+      "songYt": "xXD5tltX9Pg",
+      "videoYt": "CvBfHwUxHIk"
+    },
+    {
+      "rank": 173,
+      "song": "Poker Face",
+      "artist": "Lady Gaga",
+      "songYt": "oG-4Uvhm4lI",
+      "videoYt": "bESGLojNYSo"
+    },
+    {
+      "rank": 174,
+      "song": "All The Stars",
+      "artist": "Kendrick Lamar & SZA",
+      "songYt": "ju4KQT0wL0I",
+      "videoYt": "JQbjS0_ZfJ0"
+    },
+    {
+      "rank": 175,
+      "song": "Danza Kuduro",
+      "artist": "Don Omar & Lucenzo",
+      "songYt": "BbWY-avjDto",
+      "videoYt": "7zp1TbLFPp8"
+    },
+    {
+      "rank": 176,
       "song": "A Couple Minutes",
       "artist": "Olivia Dean",
       "songYt": "hhsD3eyUlYk",
       "videoYt": "euYe6W7d-rI"
     },
     {
-      "rank": 187,
-      "song": "We Can't Be Friends (Wait For Your Love)",
-      "artist": "Ariana Grande",
-      "songYt": "teKmHz3FkBo",
-      "videoYt": "KNtJGQkC-WI"
+      "rank": 177,
+      "song": "Thunderstruck",
+      "artist": "AC/DC",
+      "songYt": "lhg9bYNLvOg",
+      "videoYt": "v2AC41dglnM"
     },
     {
-      "rank": 188,
-      "song": "Unwritten",
-      "artist": "Natasha Bedingfield",
-      "songYt": "iKejQrGq04w",
-      "videoYt": "b7k0a5hYnSI"
+      "rank": 178,
+      "song": "Talk To You",
+      "artist": "ANOTR Featuring 54 Ultra",
+      "songYt": "3nxq0f8-VU0",
+      "videoYt": "ajUMhpotf8k"
     },
     {
-      "rank": 189,
-      "song": "Love On The Brain",
-      "artist": "Rihanna",
-      "songYt": "QMP-o8WXSPM",
-      "videoYt": "ngkqCogEsA8"
+      "rank": 179,
+      "song": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "songYt": "YBdyc1WDlBQ",
+      "videoYt": "lDK9QqIzhwk"
     },
     {
-      "rank": 190,
-      "song": "No Broke Boys",
-      "artist": "Disco Lines & Tinashe",
-      "songYt": "l6Fx2nyU52w",
-      "videoYt": "SenovvZlWIA"
+      "rank": 180,
+      "song": "The Door",
+      "artist": "Teddy Swims",
+      "songYt": "wgqUhK32n1c",
+      "videoYt": "VSXT4a2kRHA"
     },
     {
-      "rank": 191,
-      "song": "Petal",
-      "artist": "Ariana Grande",
-      "songYt": "fuBMrVffb84",
-      "videoYt": "afSgBNwmZrQ"
+      "rank": 181,
+      "song": "Maggots For Brains",
+      "artist": "Olivia Rodrigo",
+      "songYt": "-h1ZefBxAek",
+      "videoYt": "tEiN7rkGztA"
     },
     {
-      "rank": 192,
-      "song": "Blank Space",
-      "artist": "Taylor Swift",
-      "songYt": "6hCqRb8Dtvo",
-      "videoYt": "e-ORhEE9VVg"
+      "rank": 182,
+      "song": "Timeless",
+      "artist": "The Weeknd & Playboi Carti",
+      "songYt": "a4O-abCXsfA",
+      "videoYt": "5EpyN_6dqyk"
     },
     {
-      "rank": 193,
+      "rank": 183,
+      "song": "That's What I Like",
+      "artist": "Bruno Mars",
+      "songYt": "JucvYrdSIcM",
+      "videoYt": "PMivT7MJ41M"
+    },
+    {
+      "rank": 184,
+      "song": "Nuevayol",
+      "artist": "Bad Bunny",
+      "songYt": "WdSGEvDGZAo",
+      "videoYt": "KU5V5WZVcVE"
+    },
+    {
+      "rank": 185,
       "song": "The Chain",
       "artist": "Fleetwood Mac",
       "songYt": "FhgFtXESdPk",
       "videoYt": "kBYHwH1Vb-c"
     },
     {
-      "rank": 194,
-      "song": "Gabriela",
-      "artist": "KATSEYE",
-      "songYt": "G-fCOEZnnTs",
-      "videoYt": "co-TFLbaZAE"
+      "rank": 186,
+      "song": "Circles",
+      "artist": "Post Malone",
+      "songYt": "4EQkYVtE-28",
+      "videoYt": "wXhTHyIgQ_U"
     },
     {
-      "rank": 195,
-      "song": "It's Me",
-      "artist": "ILLIT",
-      "songYt": "XDzGoMtSqZA",
-      "videoYt": "bMhDJ0S0OBA"
+      "rank": 187,
+      "song": "Bad Times",
+      "artist": "Imael Angel",
+      "songYt": "Hqp8vxkPrI8",
+      "videoYt": "mTzvMn4sLiw"
     },
     {
-      "rank": 196,
-      "song": "Sex On Fire",
-      "artist": "Kings of Leon",
-      "songYt": "EOjm4SEDMu8",
-      "videoYt": "RF0HhrwIwp0"
+      "rank": 188,
+      "song": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "songYt": "BSTsnWoslP4",
+      "videoYt": "fJ9rUzIMcZQ"
     },
     {
-      "rank": 197,
+      "rank": 189,
+      "song": "Wicked Game",
+      "artist": "Chris Isaak",
+      "songYt": "rslMMY64BVg",
+      "videoYt": "jd-qI62gNJM"
+    },
+    {
+      "rank": 190,
       "song": "Broken Window Serenade",
       "artist": "Whiskey Myers",
       "songYt": "RX_VXoi4Rck",
       "videoYt": "XOeSwMKYQH4"
     },
     {
+      "rank": 191,
+      "song": "Postinho de Gasolina",
+      "artist": "Joao Gustavo & Murilo & Grelo",
+      "songYt": "sK-gNEvWQXk",
+      "videoYt": "QU8wLdomMv0"
+    },
+    {
+      "rank": 192,
+      "song": "Expectations",
+      "artist": "Olivia Rodrigo",
+      "songYt": "9KcnxA36s04",
+      "videoYt": "gsZauX8gwxo"
+    },
+    {
+      "rank": 193,
+      "song": "Young And Beautiful",
+      "artist": "Lana Del Rey",
+      "songYt": "mjcX-5lKdeg",
+      "videoYt": "o_1aF54DO60"
+    },
+    {
+      "rank": 194,
+      "song": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "songYt": "od5qQ84pKIo",
+      "videoYt": "uxjhN_Donfw"
+    },
+    {
+      "rank": 195,
+      "song": "Cheap Thrills",
+      "artist": "Sia Featuring Sean Paul",
+      "songYt": "K_idN3P5_yk",
+      "videoYt": "SvLbyKItEUY"
+    },
+    {
+      "rank": 196,
+      "song": "No Broke Boys",
+      "artist": "Disco Lines & Tinashe",
+      "songYt": "l6Fx2nyU52w",
+      "videoYt": "SenovvZlWIA"
+    },
+    {
+      "rank": 197,
+      "song": "S&M",
+      "artist": "Rihanna",
+      "songYt": "q_MtePol92o",
+      "videoYt": "KdS6HFQ_LUc"
+    },
+    {
       "rank": 198,
-      "song": "Hey There Delilah",
-      "artist": "Plain White T's",
-      "songYt": "DLnvrGM4eNQ",
-      "videoYt": "h_m-BjrxmgI"
+      "song": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "songYt": "iKejQrGq04w",
+      "videoYt": "b7k0a5hYnSI"
     },
     {
       "rank": 199,
-      "song": "Empire State Of Mind",
-      "artist": "Jay-Z + Alicia Keys",
-      "songYt": "_ydMlTassYc",
-      "videoYt": "vk6014HuxcE"
+      "song": "It's Me",
+      "artist": "ILLIT",
+      "songYt": "XDzGoMtSqZA",
+      "videoYt": "bMhDJ0S0OBA"
     },
     {
       "rank": 200,
-      "song": "That's What I Like",
-      "artist": "Bruno Mars",
-      "songYt": "JucvYrdSIcM",
-      "videoYt": "PMivT7MJ41M"
+      "song": "Reflections",
+      "artist": "The Neighbourhood",
+      "songYt": "nhys3nF4ZDU",
+      "videoYt": "SEp7gnM0Ms8"
     }
   ]
 }
